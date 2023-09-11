@@ -37,4 +37,4 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
 
 KEGG主页靠近上方的搜索框直接搜需要的物种名，这里用了“Pichia pastoris”，Komagataella phaffii GS115的旧名。点击搜索之后会看见KEGG GENOME字样下的结果，点链接进入Komagataella phaffii GS115基因组。页面右侧的“All links”菜单下面点击“KEGG GENES”进入基因组页面。这里采用的方法很粗暴，直接将6页基因数据复制粘贴进一个文件中，可以看到部分基因是有EC编号标记的，这些就是酶，每行的最左侧则是基因名，和我们找到的RNA-seq数据使用的探针是同一个格式，能够进行匹配。  
 
-将基因组的内容复制到一个文本文档(.txt)中。保存为文件名![KEGG_KphGS115_genome]().
+将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt]().
