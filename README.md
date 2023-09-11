@@ -47,4 +47,4 @@ KEGG主页靠近上方的搜索框直接搜需要的物种名，这里用了“P
   
   
 ## 3. 匹配EC编号数据集和RNA-seq数据集
-用python脚本[merge_EC-fpkm_GSE142326.py]()匹配RNA数据集文件“GSE142326_GS115_fpkm”和整理好的含有基因名和EC编号的文件“EC.csv”，写入新的.csv文件“EC-GSE142326.csv”。
+用python脚本[merge_EC-fpkm_GSE142326.py]()匹配RNA数据集文件“GSE142326_GS115_fpkm”和整理好的含有基因名和EC编号的文件“EC.csv”，写入新的.csv文件[EC-GSE142326.csv]()。
