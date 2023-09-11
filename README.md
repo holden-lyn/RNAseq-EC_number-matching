@@ -6,10 +6,12 @@ Match EC numbers of enzymes to locus tags of RNAseq data
 ## 1. 下载基因组数据和RNA-seq数据集
 
 Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.nlm.nih.gov/geo/``。
-在搜索框中打入“Komagataella phaffii GS115”，点search搜索，从数据集中搜索想要的。本流程中查找数据集的依据是RNA-seq的数据有能匹配的上基因组或者蛋白质数据库中的基因名的探针名。Komagataella phaffii GS115这个物种比较特殊，它的基因名大概是“PAS_chrX_XXXX”的格式，第一个X指的是在几号染色体（chromosome）上，后四位XXXX是数字编号。
-
+在搜索框中打入“Komagataella phaffii GS115”，点search搜索，从数据集中搜索想要的。本流程中查找数据集的依据是RNA-seq的数据有能匹配的上基因组或者蛋白质数据库中的基因名的探针名。Komagataella phaffii GS115这个物种比较特殊，它的基因名大概是“PAS_chrX_XXXX”的格式，第一个X指的是在几号染色体（chromosome）上，后四位XXXX是数字编号。  
+  
+搜索到RNA-seq数据集GSE142326，数据集带有处理好写在Excel中的RNA-seq数据。下载数据集，发现第一列的探针号为PAS_chrX_XXXX格式，保存成.csv文件“GSE142326_GS115_fpkm.csv”备用。  
   
 ## 2. 下载EC号和基因名字/探针匹配的数据匹配的数据
+### 2.1 下载Uniprot数据
 在Uniprot上搜索一个物种的全部酶
   
 点击“Advanced”
@@ -31,10 +33,18 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
 <配图Uniprot_download_preview>  
   
 下载文件另存为.csv格式，或直接下载.tsv格式待使用。
-
-
+  
+  
+### 2.2 下载KEGG数据
 在KEGG上搜索一个物种的基因组，提取全部酶的信息  
-
+  
 KEGG主页靠近上方的搜索框直接搜需要的物种名，这里用了“Pichia pastoris”，Komagataella phaffii GS115的旧名。点击搜索之后会看见KEGG GENOME字样下的结果，点链接进入Komagataella phaffii GS115基因组。页面右侧的“All links”菜单下面点击“KEGG GENES”进入基因组页面。这里采用的方法很粗暴，直接将6页基因数据复制粘贴进一个文件中，可以看到部分基因是有EC编号标记的，这些就是酶，每行的最左侧则是基因名，和我们找到的RNA-seq数据使用的探针是同一个格式，能够进行匹配。  
-
-将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt]().
+  
+将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt]()。  
+使用python脚本[write_KEGG_EC_csv.py]()将其中带有EC号的行中的基因名和EC号写入一个.csv文件。  
+  
+使用python脚本[merge_EC_from_KEGG-Uniprot.py]()合并Uniprot中下载到的EC号和KEGG中下载到的EC号，由于两个数据库中收录的带有EC号的基因并不完全重叠，收集两个数据库的数据取并集，提高完整性。此步过后，得到  
+  
+  
+## 3. 匹配EC编号数据集和RNA-seq数据集
+用python脚本[merge_EC-fpkm_GSE142326.py]()匹配RNA数据集文件“GSE142326_GS115_fpkm”和整理好的含有基因名和EC编号的文件“EC.csv”，写入新的.csv文件“EC-GSE142326.csv”。
