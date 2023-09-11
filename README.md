@@ -13,11 +13,23 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
 在Uniprot上搜索一个物种的全部酶
   
 点击“Advanced”
-<配图>
+<配图Uniprot_main>  
+  
+点击左下方“Add Field”增加搜索项，亦可点击右侧“Remove”删除一项搜索项。每行都是一个搜索项，点开其中一个搜索项的下拉菜单，输入“EC”，点击出现的“Function/Enzyme classification \[EC]”，再在对应的搜索框中打入星号"*"，意为任何EC号。  
 
-点击左下方“Add Field”增加搜索项，亦可点击右侧“Remove”删除一项搜索项。每行都是一个搜索项，点开其中一个搜索项的下拉菜单，输入“EC”，点击出现的“Function/Enzyme classification \[EC]”，再在对应的搜索框中打入星号"*"，意为任何EC号。
+在另一个搜索框的下拉菜单中输入“OS”点击弹出的“Organism \[OS]”，再搜索能让自己的目标Organism弹出的关键词，这里用了“GS115”，输入之后就会弹出完整的物种名称，要用鼠标点击一下，看见整条弹出的信息出现在输入框中，否则搜索会报错（必须输入一种下拉菜单栏中弹出的存在于数据库中的物种，除非使用的是全局搜索"All"）。点击搜索，看见靠近顶部出现“UniProtKB 776 results”，有776条结果，基本可以理解为在Uniprot数据库中能搜集到776个Komagataella phaffii GS115中的酶（2023-9-11结果）  
+  
+<配图Uniprot_advance>  
 
-在另一个搜索框的下拉菜单中输入“OS”点击弹出的“Organism \[OS]”，再搜索能让自己的目标Organism弹出的关键词，这里用了“GS115”，输入之后就会弹出完整的物种名称，要用鼠标点击一下，看见整条弹出的信息出现在输入框中，否则搜索会报错（必须输入一种下拉菜单栏中弹出的存在于数据库中的物种，除非使用的是全局搜索"All"）。
+下载xlsx格式的Excel文件  
+点击“UniProtKB 776 results”字样下方的“Download”进行下载，弹出下载窗口，在“Format”下拉菜单中选择Excel，本流程使用了Excel文件转csv的操作，其实可以直接下载tsv格式，省略格式转换的步骤。在Customize columns中通过搜索收集所需信息，可以拖拽Columns的标题编辑先后顺序。也可点击Column标题上的叉号删除不想要的列。这里我们选择下载的文件中产生"Entry Name", "Protein Names", "Gene Names", "EC number"四列。
+
+<配图Uniprot_download_options>  
+  
+可以点击页面下方“Preview 10”查询前10行，可以看见Uniprot页面编号会自动占用第一列，如图。
+
+<配图Uniprot_download_preview>  
+  
 
 
 
