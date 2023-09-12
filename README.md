@@ -15,18 +15,18 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
 在Uniprot上搜索一个物种的全部酶
   
 点击“Advanced”
-![Uniprot_main](https://github.com/holden-lyn/RNAseq-EC_number-matching/blob/main/picture_RNAseq-EC_number-matching/Uniprot_main.png) 
+![Uniprot_main](picture_RNAseq-EC_number-matching/Uniprot_main.png) 
   
 点击左下方“Add Field”增加搜索项，亦可点击右侧“Remove”删除一项搜索项。每行都是一个搜索项，点开其中一个搜索项的下拉菜单，输入“EC”，点击出现的“Function/Enzyme classification \[EC]”，再在对应的搜索框中打入星号"*"，意为任何EC号。  
 
 在另一个搜索框的下拉菜单中输入“OS”点击弹出的“Organism \[OS]”，再搜索能让自己的目标Organism弹出的关键词，这里用了“GS115”，输入之后就会弹出完整的物种名称，要用鼠标点击一下，看见整条弹出的信息出现在输入框中，否则搜索会报错（必须输入一种下拉菜单栏中弹出的存在于数据库中的物种，除非使用的是全局搜索"All"）。点击搜索，看见靠近顶部出现“UniProtKB 776 results”，有776条结果，基本可以理解为在Uniprot数据库中能搜集到776个Komagataella phaffii GS115中的酶（搜索日期：2023-9-11）  
   
-![Uniprot_advance](https://github.com/holden-lyn/RNAseq-EC_number-matching/blob/main/picture_RNAseq-EC_number-matching/Uniprot_advance.png)  
+![Uniprot_advance](picture_RNAseq-EC_number-matching/Uniprot_advance.png)  
 
 下载xlsx格式的Excel文件  
 点击“UniProtKB 776 results”字样下方的“Download”进行下载，弹出下载窗口，在“Format”下拉菜单中选择Excel，本流程使用了Excel文件转csv的操作，其实可以直接下载tsv格式，省略格式转换的步骤。在Customize columns中通过搜索收集所需信息，可以拖拽Columns的标题编辑先后顺序。也可点击Column标题上的叉号删除不想要的列。这里我们选择下载的文件中产生"Entry Name", "Protein Names", "Gene Names", "EC number"四列。
 
-![Uniprot_download_options](https://github.com/holden-lyn/RNAseq-EC_number-matching/blob/main/picture_RNAseq-EC_number-matching/Uniprot_download_options.png) 
+![Uniprot_download_options](picture_RNAseq-EC_number-matching/Uniprot_download_options.png) 
   
 可以点击页面下方“Preview 10”查询前10行，可以看见Uniprot页面编号会自动占用第一列，如图。
 
@@ -40,11 +40,11 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
   
 KEGG主页靠近上方的搜索框直接搜需要的物种名，这里用了“Pichia pastoris”，Komagataella phaffii GS115的旧名。点击搜索之后会看见KEGG GENOME字样下的结果，点链接进入Komagataella phaffii GS115基因组。页面右侧的“All links”菜单下面点击“KEGG GENES”进入基因组页面。这里采用的方法很粗暴，直接将6页基因数据复制粘贴进一个文件中，可以看到部分基因是有EC编号标记的，这些就是酶，每行的最左侧则是基因名，和我们找到的RNA-seq数据使用的探针是同一个格式，能够进行匹配。  
   
-将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt]()。  
-使用python脚本[write_KEGG_EC_csv.py]()将其中带有EC号的行中的基因名和EC号写入一个.csv文件。  
+将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt](RnE_scripts_and_data/KEGG_KphGS115_genome.txt)。  
+使用python脚本[write_KEGG_EC_csv.py](RnE_scripts_and_data/write_KEGG_EC_csv.py)将其中带有EC号的行中的基因名和EC号写入一个.csv文件。  
   
-使用python脚本[merge_EC_from_KEGG-Uniprot.py]()合并Uniprot中下载到的EC号和KEGG中下载到的EC号，由于两个数据库中收录的带有EC号的基因并不完全重叠，收集两个数据库的数据取并集，提高完整性。此步过后，得到  
+使用python脚本[merge_EC_from_KEGG-Uniprot.py](RnE_scripts_and_data/merge_EC_from_KEGG-Uniprot.py)合并Uniprot中下载到的EC号和KEGG中下载到的EC号，由于两个数据库中收录的带有EC号的基因并不完全重叠，收集两个数据库的数据取并集，提高完整性。此步过后，得到  
   
   
 ## 3. 匹配EC编号数据集和RNA-seq数据集
-用python脚本[merge_EC-fpkm_GSE142326.py]()匹配RNA数据集文件“GSE142326_GS115_fpkm”和整理好的含有基因名和EC编号的文件“EC.csv”，写入新的.csv文件[EC-GSE142326.csv]()。
+用python脚本[merge_EC-fpkm_GSE142326.py](RnE_scripts_and_data/merge_EC-FPKM_GSE142326.py)匹配RNA数据集文件“GSE142326_GS115_fpkm”和整理好的含有基因名和EC编号的文件“EC.csv”，写入新的.csv文件[EC-GSE142326.csv](RnE_scripts_and_data/EC-GSE142326.csv)。
