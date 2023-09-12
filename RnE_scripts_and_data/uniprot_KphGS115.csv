@@ -1,0 +1,777 @@
+Entry,Entry Name,gene_id,Protein names,EC number
+C4QVT8,C4QVT8_KOMPG,PAS_chr1-1_0008,Fatty acid synthase subunit beta (EC 2.3.1.86) [Includes: 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9); [Acyl-carrier-protein] acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] malonyltransferase (EC 2.3.1.39); S-acyl fatty acid synthase thioesterase (EC 3.1.2.14)],1.3.1.9; 2.3.1.38; 2.3.1.39; 2.3.1.86; 3.1.2.14; 4.2.1.59
+C4QX80,PSD1_KOMPG,PSD1 PAS_chr1-4_0019,"Phosphatidylserine decarboxylase proenzyme 1, mitochondrial (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase 1 beta chain; Phosphatidylserine decarboxylase 1 alpha chain]",4.1.1.65
+C4R3Z4,C4R3Z4_KOMPG,PAS_chr3_0243,Serine/threonine-protein kinase (EC 2.7.11.21),2.7.11.21
+C4R4R8,ARO1_KOMPG,ARO1 PAS_chr3_0506,Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase (DHQS) (EC 4.2.3.4); 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS); Shikimate kinase (SK) (EC 2.7.1.71); 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10); Shikimate dehydrogenase (EC 1.1.1.25)],1.1.1.25; 2.5.1.19; 2.7.1.71; 4.2.1.10; 4.2.3.4
+P04842,ALOX1_KOMPG,AOX1 PAS_chr4_0821,Alcohol oxidase 1 (AO 1) (AOX 1) (EC 1.1.3.13) (Methanol oxidase 1) (MOX 1),1.1.3.13
+Q92448,PFKA1_KOMPG,PFK1 GSA1 PAS_chr2-1_0402,ATP-dependent 6-phosphofructokinase subunit alpha (EC 2.7.1.11) (ATP-dependent 6-phosphofructokinase 1) (ATP-PFK 1) (Phosphofructokinase 1) (Glucose-induced selective autophagy 1 protein) (Phosphohexokinase 1),2.7.1.11
+Q9Y751,ATG26_KOMPG,ATG26 PAZ4 PDG3 UGT51 UGT51B1 PAS_chr4_0167,Sterol 3-beta-glucosyltransferase (EC 2.4.1.173) (Autophagy-related protein 26) (Peroxisome degradation protein 3) (Pexophagy zeocin-resistant mutant protein 4) (UDP-glycosyltransferase 51),2.4.1.173
+C4QV66,C4QV66_KOMPG,PAS_chr1-3_0083,DNA polymerase epsilon catalytic subunit (EC 2.7.7.7),2.7.7.7
+C4QVM1,C4QVM1_KOMPG,PAS_chr1-3_0232,Mitogen-activated protein kinase (EC 2.7.11.24),2.7.11.24
+C4QVT5,C4QVT5_KOMPG,PAS_chr1-1_0005,Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase (EC 2.7.4.24),2.7.4.24
+C4QXA5,PFKA2_KOMPG,PFK2 PAS_chr1-4_0047,ATP-dependent 6-phosphofructokinase subunit beta (EC 2.7.1.11) (ATP-dependent 6-phosphofructokinase 2) (ATP-PFK 2) (Phosphofructokinase 2) (Phosphohexokinase 2),2.7.1.11
+C4QXD7,C4QXD7_KOMPG,PAS_chr1-4_0081,protein-tyrosine-phosphatase (EC 3.1.3.48),3.1.3.48
+C4QXI1,C4QXI1_KOMPG,PAS_chr1-4_0125,Histone deacetylase (EC 3.5.1.98),3.5.1.98
+C4QXJ7,C4QXJ7_KOMPG,PAS_chr1-4_0142,DNA replication licensing factor MCM4 (EC 3.6.4.12),3.6.4.12
+C4QXW4,C4QXW4_KOMPG,MET3 PAS_chr1-4_0253,Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT),2.7.7.4
+C4QY80,C4QY80_KOMPG,PAS_chr1-4_0360,DNA replication licensing factor MCM6 (EC 3.6.4.12),3.6.4.12
+C4QZ20,FEN1_KOMPG,FEN1 PAS_chr1-4_0633,Flap endonuclease 1 (FEN-1) (EC 3.1.-.-) (Flap structure-specific endonuclease 1),3.1.-.-
+C4R014,C4R014_KOMPG,RRM3 PAS_chr2-1_0228,ATP-dependent DNA helicase RRM3 (EC 3.6.4.12) (rDNA recombination mutation protein 3),3.6.4.12
+C4R0P2,C4R0P2_KOMPG,PIF1 PAS_chr2-1_0439,ATP-dependent DNA helicase PIF1 (EC 3.6.4.12) (DNA repair and recombination helicase PIF1),3.6.4.12
+C4R0X9,C4R0X9_KOMPG,PAS_chr2-1_0855,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R124,C4R124_KOMPG,UBA4 PAS_chr2-1_0563,Adenylyltransferase and sulfurtransferase UBA4 (Ubiquitin-like protein activator 4) [Includes: Adenylyltransferase UBA4 (EC 2.7.7.-); Sulfurtransferase UBA4 (EC 2.8.1.-)],2.7.7.-; 2.8.1.-
+C4R311,C4R311_KOMPG,PAS_chr2-2_0049,NAD-dependent protein deacylase (EC 2.3.1.-) (Regulatory protein SIR2 homolog 5),2.3.1.-
+C4R360,PSD2_KOMPG,PSD2 PAS_chr3_1127,Phosphatidylserine decarboxylase proenzyme 2 (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase 2 beta chain; Phosphatidylserine decarboxylase 2 alpha chain],4.1.1.65
+C4R3R0,C4R3R0_KOMPG,COQ3 PAS_chr3_0169,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial (3,4-dihydroxy-5-hexaprenylbenzoate methyltransferase) (3-demethylubiquinol 3-O-methyltransferase) (3-demethylubiquinone-6 3-O-methyltransferase) (Hexaprenyldihydroxybenzoate methyltransferase) (Polyprenyldihydroxybenzoate methyltransferase) (DHHB methyltransferase) (DHHB-MT) (DHHB-MTase) (EC 2.1.1.114, EC 2.1.1.64)",2.1.1.114; 2.1.1.64
+C4R475,C4R475_KOMPG,PAS_chr3_0322,DNA topoisomerase 2 (EC 5.6.2.2),5.6.2.2
+C4R4B3,CEGT_KOMPG,PAS_chr3_0357,Ceramide glucosyltransferase (EC 2.4.1.80) (GLCT-1) (Glucosylceramide synthase) (GCS) (UDP-glucose ceramide glucosyltransferase) (UDP-glucose:N-acylsphingosine D-glucosyltransferase),2.4.1.80
+C4R4Q1,C4R4Q1_KOMPG,BNA5 PAS_chr3_1194,Kynureninase (EC 3.7.1.3) (Biosynthesis of nicotinic acid protein 5) (L-kynurenine hydrolase),3.7.1.3
+C4R5R6,C4R5R6_KOMPG,PAS_chr3_0850,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R6H8,C4R6H8_KOMPG,HAM1 PAS_chr3_1255,Inosine triphosphate pyrophosphatase (ITPase) (Inosine triphosphatase) (EC 3.6.1.9) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase),3.6.1.9
+C4R6T5,C4R6T5_KOMPG,PAS_chr4_0084,Histone acetyltransferase (EC 2.3.1.48),2.3.1.48
+C4R7D8,C4R7D8_KOMPG,PAS_chr4_0279,DNA replication ATP-dependent helicase/nuclease (EC 3.1.-.-) (EC 3.6.4.12),3.1.-.-; 3.6.4.12
+C4R7W9,C4R7W9_KOMPG,PIM1 PAS_chr4_0441,"Lon protease homolog, mitochondrial (EC 3.4.21.53)",3.4.21.53
+C4R986,C4R986_KOMPG,MCM7 PAS_chr4_0891,DNA replication licensing factor MCM7 (EC 3.6.4.12),3.6.4.12
+P52710,CBPY_KOMPG,PRC1 PAS_chr1-4_0013,Carboxypeptidase Y (EC 3.4.16.5) (Carboxypeptidase YSCY),3.4.16.5
+Q9P4C8,SAR1_KOMPG,SAR1 PAS_chr1-1_0180,Small COPII coat GTPase SAR1 (EC 3.6.5.-),3.6.5.-
+C4QVR4,C4QVR4_KOMPG,PAS_chr1-3_0272,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4QVT9,C4QVT9_KOMPG,PAS_chr1-1_0009,Lysophospholipase NTE1 (EC 3.1.1.5) (Intracellular phospholipase B),3.1.1.5
+C4QVU3,SLD1_KOMPG,PAS_chr1-1_0013,Delta 8-(E)-sphingolipid desaturase (EC 1.14.19.18),1.14.19.18
+C4QVZ6,C4QVZ6_KOMPG,PAS_chr1-1_0061,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4QW03,C4QW03_KOMPG,PAS_chr1-1_0067,Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (N-acetylglucosamine-phosphate mutase),5.4.2.3
+C4QW04,LCL3_KOMPG,LCL3 PAS_chr1-1_0068,Probable endonuclease LCL3 (EC 3.1.-.-),3.1.-.-
+C4QW24,C4QW24_KOMPG,PAS_chr1-1_0087,Chromatin-remodeling ATPase INO80 (EC 3.6.4.-),3.6.4.-
+C4QW71,C4QW71_KOMPG,PAS_chr1-1_0130,"glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)",3.2.1.39
+C4QW73,C4QW73_KOMPG,PAS_chr1-1_0132,Purine nucleoside phosphorylase (EC 2.4.2.1) (Inosine-guanosine phosphorylase),2.4.2.1
+C4QW84,C4QW84_KOMPG,PAN2 PAS_chr1-1_0143,PAN2-PAN3 deadenylation complex catalytic subunit PAN2 (EC 3.1.13.4) (PAB1P-dependent poly(A)-specific ribonuclease) (Poly(A)-nuclease deadenylation complex subunit 2) (PAN deadenylation complex subunit 2),3.1.13.4
+C4QWB1,C4QWB1_KOMPG,COQ7 PAS_chr1-1_0169,"5-demethoxyubiquinone hydroxylase, mitochondrial (DMQ hydroxylase) (EC 1.14.99.60) (Ubiquinone biosynthesis monooxygenase COQ7)",1.14.99.60
+C4QWB6,C4QWB6_KOMPG,PAS_chr1-1_0174,"Lon protease homolog 2, peroxisomal (EC 3.4.21.-)",3.4.21.-
+C4QWQ5,C4QWQ5_KOMPG,PAS_chr1-1_0301,"ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyldiphosphate specific] (EC 2.5.1.87)",2.5.1.87
+C4QWR3,C4QWR3_KOMPG,PAS_chr1-1_0309,H(+)-transporting two-sector ATPase (EC 7.1.2.2),7.1.2.2
+C4QX25,C4QX25_KOMPG,PAS_chr1-1_0420,CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) (Phosphatidylserine synthase),2.7.8.8
+C4QX36,C4QX36_KOMPG,PAS_chr1-1_0432,"Ketol-acid reductoisomerase, mitochondrial (EC 1.1.1.86) (Acetohydroxy-acid reductoisomerase) (Alpha-keto-beta-hydroxylacyl reductoisomerase)",1.1.1.86
+C4QX86,C4QX86_KOMPG,PAS_chr1-4_0025,ferroxidase (EC 1.16.3.1),1.16.3.1
+C4QXA7,C4QXA7_KOMPG,PAS_chr1-4_0049,Homoserine dehydrogenase (HDH) (EC 1.1.1.3),1.1.1.3
+C4QXE9,CHO2_KOMPG,CHO2 PAS_chr1-4_0093,Phosphatidylethanolamine N-methyltransferase (PE methyltransferase) (PEAMT) (PEMT) (EC 2.1.1.17),2.1.1.17
+C4QXH1,C4QXH1_KOMPG,TSR3 PAS_chr1-4_0115,18S rRNA aminocarboxypropyltransferase (EC 2.5.1.-),2.5.1.-
+C4QXK6,C4QXK6_KOMPG,PAS_chr1-4_0149,3-ketodihydrosphingosine reductase TSC10 (EC 1.1.1.102) (3-dehydrosphinganine reductase) (KDS reductase),1.1.1.102
+C4QXL0,C4QXL0_KOMPG,PAS_chr1-4_0153,Alpha-aminoadipate reductase (EC 1.2.1.31) (EC 1.2.1.95) (L-aminoadipate-semialdehyde dehydrogenase),1.2.1.31; 1.2.1.95
+C4QXL7,C4QXL7_KOMPG,PAS_chr1-4_0160,Histidine biosynthesis trifunctional protein [Includes: Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19); Phosphoribosyl-ATP pyrophosphohydrolase (EC 3.6.1.31); Histidinol dehydrogenase (HDH) (EC 1.1.1.23)],1.1.1.23; 3.5.4.19; 3.6.1.31
+C4QXP1,C4QXP1_KOMPG,PAS_chr1-4_0181,Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1) (EC 2.7.7.18),2.7.7.1; 2.7.7.18
+C4QXP7,SEC11_KOMPG,SEC11 PAS_chr1-4_0187,Signal peptidase complex catalytic subunit SEC11 (EC 3.4.21.89) (Signal peptidase I),3.4.21.89
+C4QXU2,C4QXU2_KOMPG,GUF1 PAS_chr1-4_0230,"Translation factor GUF1, mitochondrial (EC 3.6.5.n1) (Elongation factor 4 homolog) (EF-4) (GTPase GUF1) (Ribosomal back-translocase)",3.6.5.n1
+C4QXU5,C4QXU5_KOMPG,PAS_chr1-4_0233,Phospholipid-transporting ATPase (EC 7.6.2.1),7.6.2.1
+C4QXY9,C4QXY9_KOMPG,PAS_chr1-4_0277,Decapping nuclease (EC 3.6.1.-),3.6.1.-
+C4QY08,C4QY08_KOMPG,PAS_chr1-4_0293,Kinase (EC 2.7.-.-),2.7.-.-
+C4QY10,C4QY10_KOMPG,PAS_chr1-4_0295,Fatty acid synthase subunit alpha (EC 2.3.1.86) [Includes: 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41)],1.1.1.100; 2.3.1.41; 2.3.1.86
+C4QY33,C4QY33_KOMPG,PAS_chr1-4_0315,NAD-dependent protein deacetylase (EC 2.3.1.286),2.3.1.286
+C4QY43,C4QY43_KOMPG,PAS_chr1-4_0325,Calcium-transporting ATPase (EC 7.2.2.10),7.2.2.10
+C4QY44,C4QY44_KOMPG,PAS_chr1-4_0326,Threonylcarbamoyl-AMP synthase (TC-AMP synthase) (EC 2.7.7.87) (L-threonylcarbamoyladenylate synthase),2.7.7.87
+C4QY75,C4QY75_KOMPG,PAS_chr1-4_0673,Polyprenol reductase (EC 1.3.1.94),1.3.1.94
+C4QYF2,LIPA_KOMPG,PAS_chr1-4_0425,"Lipoyl synthase, mitochondrial (EC 2.8.1.8) (Lipoate synthase) (LS) (Lip-syn) (Lipoic acid synthase)",2.8.1.8
+C4QYQ1,C4QYQ1_KOMPG,PAS_chr1-4_0523,RNA polymerase II subunit A C-terminal domain phosphatase SSU72 (CTD phosphatase SSU72) (EC 3.1.3.16),3.1.3.16
+C4QYS6,MTNA_KOMPG,MRI1 PAS_chr1-4_0545,Methylthioribose-1-phosphate isomerase (M1Pi) (MTR-1-P isomerase) (EC 5.3.1.23) (S-methyl-5-thioribose-1-phosphate isomerase) (Translation initiation factor eIF-2B subunit alpha/beta/delta-like protein),5.3.1.23
+C4QYT1,C4QYT1_KOMPG,PAS_chr1-4_0549,ATP-dependent DNA helicase (EC 3.6.4.12),3.6.4.12
+C4QYU1,C4QYU1_KOMPG,TAH18 PAS_chr1-4_0559,NADPH-dependent diflavin oxidoreductase 1 (EC 1.18.1.-) (NADPH-dependent FMN and FAD-containing oxidoreductase),1.18.1.-
+C4QZ06,BMT3_KOMPG,BMT3 PAS_chr1-4_0696,Beta-mannosyltransferase 3 (EC 2.4.1.-),2.4.1.-
+C4QZ33,C4QZ33_KOMPG,PAS_chr1-4_0645,Poly(A) polymerase (EC 2.7.7.19),2.7.7.19
+C4QZ40,C4QZ40_KOMPG,PAS_c121_0002,"Alpha-1,3/1,6-mannosyltransferase ALG2 (EC 2.4.1.132) (EC 2.4.1.257) (GDP-Man:Man(1)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase)",2.4.1.132; 2.4.1.257
+C4QZ46,C4QZ46_KOMPG,PAS_c121_0007,E3 ubiquitin-protein ligase listerin (EC 2.3.2.27) (RING-type E3 ubiquitin transferase listerin),2.3.2.27
+C4QZB4,C4QZB4_KOMPG,PAS_FragB_0056,DNA helicase (EC 3.6.4.12),3.6.4.12
+C4QZL2,C4QZL2_KOMPG,KAE1 PAS_chr2-1_0085,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein KAE1) (tRNA threonylcarbamoyladenosine biosynthesis protein KAE1),2.3.1.234
+C4QZP1,C4QZP1_KOMPG,ADK2 PAS_chr2-1_0111,"GTP:AMP phosphotransferase, mitochondrial (EC 2.7.4.10) (Adenylate kinase 3) (AK 3)",2.7.4.10
+C4QZR8,C4QZR8_KOMPG,PAS_chr2-1_0135,Crossover junction endonuclease MUS81 (EC 3.1.22.-),3.1.22.-
+C4QZT2,C4QZT2_KOMPG,PAS_chr2-1_0149,DNA replication licensing factor MCM3 (EC 3.6.4.12),3.6.4.12
+C4QZU9,C4QZU9_KOMPG,QRI7 PAS_chr2-1_0167,"tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein QRI7) (tRNA threonylcarbamoyladenosine biosynthesis protein QRI7)",2.3.1.234
+C4QZV7,KEX1_KOMPG,KEX1 PAS_chr2-1_0174,Pheromone-processing carboxypeptidase KEX1 (EC 3.4.16.6) (Carboxypeptidase D),3.4.16.6
+C4QZY6,C4QZY6_KOMPG,PAS_chr2-1_0202,S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50),4.1.1.50
+C4R002,C4R002_KOMPG,PAS_chr2-1_0216,mRNA-capping enzyme subunit alpha (EC 2.7.7.50) (GTP--RNA guanylyltransferase) (mRNA guanylyltransferase),2.7.7.50
+C4R007,C4R007_KOMPG,PAS_chr2-1_0221,Nicotinate phosphoribosyltransferase (EC 6.3.4.21),6.3.4.21
+C4R092,C4R092_KOMPG,PAS_chr2-1_0302,Histone deacetylase (EC 3.5.1.98),3.5.1.98
+C4R0G5,C4R0G5_KOMPG,PAS_chr2-1_0368,3-isopropylmalate dehydratase (EC 4.2.1.33) (Alpha-IPM isomerase) (Isopropylmalate isomerase),4.2.1.33
+C4R0J7,C4R0J7_KOMPG,HER2 PAS_chr2-1_0400,"Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial (Glu-AdT subunit A) (EC 6.3.5.7)",6.3.5.7
+C4R0M0,C4R0M0_KOMPG,ADI1 PAS_chr2-1_0422,Acireductone dioxygenase (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD') (Fe-ARD) (EC 1.13.11.54) (Acireductone dioxygenase (Ni(2+)-requiring)) (ARD) (Ni-ARD) (EC 1.13.11.53),1.13.11.53; 1.13.11.54
+C4R0P1,C4R0P1_KOMPG,PAS_chr2-1_0437,Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12),1.2.1.12
+C4R0S0,C4R0S0_KOMPG,PAS_chr2-1_0466,Patatin-like phospholipase domain-containing protein (EC 3.1.1.-),3.1.1.-
+C4R0T4,C4R0T4_KOMPG,PAS_chr2-1_0478,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),3.6.1.23
+C4R0U3,C4R0U3_KOMPG,PAS_chr2-1_0487,Leukotriene A(4) hydrolase (LTA-4 hydrolase) (EC 3.3.2.10) (EC 3.4.11.-),3.3.2.10; 3.4.11.-
+C4R0V0,C4R0V0_KOMPG,PAS_chr2-1_0493,Adenylate kinase isoenzyme 6 homolog (AK6) (EC 2.7.4.3) (Dual activity adenylate kinase/ATPase) (AK/ATPase),2.7.4.3
+C4R102,C4R102_KOMPG,URA6 PAS_chr2-1_0543,Uridylate kinase (UK) (EC 2.7.4.14) (ATP:UMP phosphotransferase) (Deoxycytidylate kinase) (CK) (dCMP kinase) (Uridine monophosphate kinase) (UMP kinase) (UMPK),2.7.4.14
+C4R113,C4R113_KOMPG,LIA1 PAS_chr2-1_0553,Deoxyhypusine hydroxylase (DOHH) (EC 1.14.99.29) (Deoxyhypusine dioxygenase) (Deoxyhypusine monooxygenase),1.14.99.29
+C4R197,C4R197_KOMPG,PAS_chr2-1_0872,Mitogen-activated protein kinase (EC 2.7.11.24),2.7.11.24
+C4R1A4,C4R1A4_KOMPG,PAS_chr2-1_0635,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R1B1,C4R1B1_KOMPG,PAS_chr2-1_0641,Serine/threonine-protein kinase ATG1 (EC 2.7.11.1) (Autophagy-related protein 1) (Serine/threonine-protein kinase atg1),2.7.11.1
+C4R1H0,C4R1H0_KOMPG,PAS_chr2-1_0697,DNA polymerase (EC 2.7.7.7),2.7.7.7
+C4R1N8,C4R1N8_KOMPG,PAS_chr2-1_0759,"Chitobiosyldiphosphodolichol beta-mannosyltransferase (EC 2.4.1.142) (Asparagine-linked glycosylation protein 1) (Beta-1,4-mannosyltransferase) (GDP-Man:GlcNAc2-PP-dolichol mannosyltransferase) (GDP-mannose-dolichol diphosphochitobiose mannosyltransferase)",2.4.1.142
+C4R1P4,C4R1P4_KOMPG,COQ5 PAS_chr2-1_0763,"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial (EC 2.1.1.201) (Ubiquinone biosynthesis methyltransferase COQ5)",2.1.1.201
+C4R1T9,ENOPH_KOMPG,UTR4 PAS_chr2-2_0446,"Enolase-phosphatase E1 (EC 3.1.3.77) (2,3-diketo-5-methylthio-1-phosphopentane phosphatase)",3.1.3.77
+C4R1U8,C4R1U8_KOMPG,PAS_chr2-2_0437,Glycogen debranching enzyme (EC 2.4.1.25) (EC 3.2.1.33) (Glycogen debrancher),2.4.1.25; 3.2.1.33
+C4R1X8,C4R1X8_KOMPG,PAS_chr2-2_0407,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase beta chain) (SCS-beta)",6.2.1.5
+C4R221,C4R221_KOMPG,NAT10 PAS_chr2-2_0360,RNA cytidine acetyltransferase (EC 2.3.1.-) (18S rRNA cytosine acetyltransferase),2.3.1.-
+C4R243,C4R243_KOMPG,PAS_chr2-2_0339,DNA replication licensing factor MCM5 (EC 3.6.4.12),3.6.4.12
+C4R250,C4R250_KOMPG,PAS_chr2-2_0332,Aurora kinase (EC 2.7.11.1),2.7.11.1
+C4R253,C4R253_KOMPG,PAS_chr2-2_0329,Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase),4.3.2.2
+C4R271,C4R271_KOMPG,BNA1 PAS_chr2-2_0311,"3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6) (3-hydroxyanthranilate oxygenase) (3-HAO) (3-hydroxyanthranilic acid dioxygenase) (HAD) (Biosynthesis of nicotinic acid protein 1)",1.13.11.6
+C4R280,C4R280_KOMPG,COQ6 PAS_chr2-2_0303,"Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial (EC 1.14.13.-)",1.14.13.-
+C4R2M4,C4R2M4_KOMPG,PAS_chr2-2_0174,ribose-phosphate diphosphokinase (EC 2.7.6.1),2.7.6.1
+C4R2N6,C4R2N6_KOMPG,PAS_chr2-2_0164,CAAX prenyl protease (EC 3.4.24.84),3.4.24.84
+C4R2P3,MAP2_KOMPG,MAP2 PAS_chr2-2_0159,Methionine aminopeptidase 2 (MAP 2) (MetAP 2) (EC 3.4.11.18) (Peptidase M),3.4.11.18
+C4R319,C4R319_KOMPG,PAS_chr2-2_0041,[RNA-polymerase]-subunit kinase (EC 2.7.11.23),2.7.11.23
+C4R339,C4R339_KOMPG,PAS_chr2-2_0024,Pyruvate carboxylase (EC 6.4.1.1),6.4.1.1
+C4R347,C4R347_KOMPG,PAS_chr2-2_0016,Histone deacetylase (EC 3.5.1.98),3.5.1.98
+C4R367,C4R367_KOMPG,PAS_chr3_1133,"Histone-lysine N-methyltransferase, H3 lysine-79 specific (EC 2.1.1.360) (Histone H3-K79 methyltransferase)",2.1.1.360
+C4R3C8,C4R3C8_KOMPG,PAS_chr3_0037,cysteine desulfurase (EC 2.8.1.7),2.8.1.7
+C4R3D3,C4R3D3_KOMPG,PAS_chr3_0042,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R3D7,C4R3D7_KOMPG,PAS_chr3_0044,HECT-type E3 ubiquitin transferase (EC 2.3.2.26),2.3.2.26
+C4R3K6,C4R3K6_KOMPG,PAS_chr3_0112,Serine/threonine-protein kinase RIO1 (EC 2.7.11.1),2.7.11.1
+C4R3R8,ARGJ_KOMPG,PAS_chr3_0176,"Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (GAT) (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGS)]",2.3.1.1; 2.3.1.35
+C4R3W2,C4R3W2_KOMPG,PAS_chr3_0217,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R3X6,C4R3X6_KOMPG,PAS_chr3_0228,Histone acetyltransferase type B catalytic subunit (EC 2.3.1.48),2.3.1.48
+C4R3Y7,C4R3Y7_KOMPG,PAS_chr3_0236,Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase),2.3.1.199
+C4R3Z3,C4R3Z3_KOMPG,PAS_chr3_0242,DNA topoisomerase I (EC 5.6.2.1) (DNA topoisomerase 1),5.6.2.1
+C4R3Z7,C4R3Z7_KOMPG,PFA4 PAS_chr3_0246,Palmitoyltransferase PFA4 (EC 2.3.1.225) (Protein S-acyltransferase) (PAT) (Protein fatty acyltransferase 4),2.3.1.225
+C4R408,C4R408_KOMPG,ADK1 PAS_chr3_0257,Adenylate kinase (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate kinase cytosolic and mitochondrial) (Adenylate monophosphate kinase),2.7.4.3
+C4R430,C4R430_KOMPG,PAS_chr3_0277,"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)",1.1.1.44
+C4R432,SEY1_KOMPG,SEY1 PAS_chr3_0279,Protein SEY1 (EC 3.6.5.-),3.6.5.-
+C4R445,C4R445_KOMPG,COQ2 PAS_chr3_0291,"4-hydroxybenzoate polyprenyltransferase, mitochondrial (4-HB polyprenyltransferase) (EC 2.5.1.39) (4-hydroxybenzoate hexaprenyltransferase) (Para-hydroxybenzoate--polyprenyltransferase) (PHB:PPT) (PHB:polyprenyltransferase)",2.5.1.39
+C4R4M5,C4R4M5_KOMPG,ALA1 PAS_chr3_0462,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),6.1.1.7
+C4R4N4,C4R4N4_KOMPG,PAS_chr3_0471,aspartate-semialdehyde dehydrogenase (EC 1.2.1.11),1.2.1.11
+C4R4U9,C4R4U9_KOMPG,PAS_chr3_0535,Ceramide very long chain fatty acid hydroxylase (EC 1.-.-.-),1.-.-.-
+C4R4X3,C4R4X3_KOMPG,PAS_chr3_0561,Glutathione hydrolase (EC 2.3.2.2) (EC 3.4.19.13) (Gamma-glutamyltransferase) (Gamma-glutamyltranspeptidase),2.3.2.2; 3.4.19.13
+C4R515,C4R515_KOMPG,RBK1 PAS_chr3_0604,Ribokinase (RK) (EC 2.7.1.15),2.7.1.15
+C4R541,C4R541_KOMPG,PAS_chr3_0629,DNA helicase (EC 3.6.4.12),3.6.4.12
+C4R544,C4R544_KOMPG,TRM5 PAS_chr3_0632,tRNA (guanine(37)-N1)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase) (tRNA methyltransferase 5),2.1.1.228
+C4R558,C4R558_KOMPG,PAS_chr3_0646,Phospholipase (EC 3.1.4.4),3.1.4.4
+C4R560,C4R560_KOMPG,THI4 PAS_chr3_0648,Thiamine thiazole synthase (Thiazole biosynthetic enzyme) (EC 2.4.2.60),2.4.2.60
+C4R5D9,C4R5D9_KOMPG,PAS_chr3_0726,Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase),3.5.4.5
+C4R5G3,C4R5G3_KOMPG,PAS_chr3_0749,histone acetyltransferase (EC 2.3.1.48),2.3.1.48
+C4R5J1,C4R5J1_KOMPG,NCS6 CTU1 PAS_chr3_0775,Cytoplasmic tRNA 2-thiolation protein 1 (EC 2.7.7.-) (Cytoplasmic tRNA adenylyltransferase 1),2.7.7.-
+C4R5N5,C4R5N5_KOMPG,PAS_chr3_0818,RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R5P6,C4R5P6_KOMPG,PAS_chr3_0831,"Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)",6.2.1.5
+C4R5Q4,C4R5Q4_KOMPG,PAS_chr3_0839,protein-synthesizing GTPase (EC 3.6.5.3),3.6.5.3
+C4R5S7,C4R5S7_KOMPG,PAS_chr3_0859,Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71) (Phospholipid methyltransferase) (PLMT),2.1.1.71
+C4R5W6,C4R5W6_KOMPG,PAS_chr3_0895,Mitogen-activated protein kinase (EC 2.7.11.24),2.7.11.24
+C4R606,C4R606_KOMPG,PAS_chr3_0932,Formate dehydrogenase (FDH) (EC 1.17.1.9) (NAD-dependent formate dehydrogenase),1.17.1.9
+C4R613,DEGS_KOMPG,PAS_chr3_0939,Sphingolipid delta(4)-desaturase (EC 1.14.19.17) (Delta 4-(E)-sphingolipid desaturase) (Dihydroceramide desaturase),1.14.19.17
+C4R622,C4R622_KOMPG,TRM7 PAS_chr3_0947,Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase (EC 2.1.1.205) (2'-O-ribose RNA methyltransferase TRM7 homolog),2.1.1.205
+C4R628,PFF1_KOMPG,PAS_chr3_0953,Vacuolar membrane protease (EC 3.4.-.-) (FXNA-related family protease 1),3.4.-.-
+C4R654,C4R654_KOMPG,PAS_chr3_0976,NAD(P)H-hydrate epimerase (EC 5.1.99.6) (NAD(P)HX epimerase),5.1.99.6
+C4R686,C4R686_KOMPG,PAS_chr3_1011,Glutathione reductase (EC 1.8.1.7),1.8.1.7
+C4R6A0,C4R6A0_KOMPG,PAS_chr3_1024,glutamate synthase (NADH) (EC 1.4.1.14),1.4.1.14
+C4R6G9,C4R6G9_KOMPG,PAS_chr3_1254,Serine/threonine-protein kinase RAD53 (EC 2.7.12.1),2.7.12.1
+C4R6I0,C4R6I0_KOMPG,TRM8 PAS_chr3_1100,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (Transfer RNA methyltransferase 8) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),2.1.1.33
+C4R6I4,C4R6I4_KOMPG,PAS_chr3_1104,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R6J2,C4R6J2_KOMPG,PAS_chr3_1111,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1)",1.3.5.1
+C4R6J3,C4R6J3_KOMPG,PAS_chr3_1112,DNA ligase (EC 6.5.1.1),6.5.1.1
+C4R6J6,C4R6J6_KOMPG,PAS_chr3_1115,Mannose-6-phosphate isomerase (EC 5.3.1.8),5.3.1.8
+C4R702,ALOX2_KOMPG,AOX2 PAS_chr4_0152,Alcohol oxidase 2 (AO 2) (AOX 2) (EC 1.1.3.13) (Methanol oxidase 2) (MOX 2),1.1.3.13
+C4R729,C4R729_KOMPG,PAS_chr4_0178,tRNA-dihydrouridine(47) synthase [NAD(P)(+)] (EC 1.3.1.89) (tRNA-dihydrouridine synthase 3),1.3.1.89
+C4R747,C4R747_KOMPG,PAS_chr4_0196,Folylpolyglutamate synthase (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase) (Tetrahydrofolylpolyglutamate synthase),6.3.2.17
+C4R776,C4R776_KOMPG,PAS_chr4_0223,DNA replication licensing factor MCM2 (EC 3.6.4.12),3.6.4.12
+C4R783,C4R783_KOMPG,PAS_chr4_0228,Acetolactate synthase (EC 2.2.1.6),2.2.1.6
+C4R793,C4R793_KOMPG,PAS_chr4_0239,DNA-directed RNA polymerase subunit beta (EC 2.7.7.6),2.7.7.6
+C4R7A4,C4R7A4_KOMPG,PAS_chr4_0248,Branched-chain-amino-acid aminotransferase (EC 2.6.1.42),2.6.1.42
+C4R7D9,MTNB_KOMPG,MDE1 PAS_chr4_0280,Methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase) (EC 4.2.1.109),4.2.1.109
+C4R7N6,C4R7N6_KOMPG,PAS_chr4_0368,Very-long-chain 3-oxoacyl-CoA reductase (EC 1.1.1.330) (3-ketoacyl-CoA reductase) (3-ketoreductase) (KAR) (Microsomal beta-keto-reductase),1.1.1.330
+C4R7Q5,EXO5_KOMPG,EXO5 DEM1 PAS_chr4_0382,"Exonuclease V, mitochondrial (Exo V) (EC 3.1.-.-) (Defects in morphology protein 1)",3.1.-.-
+C4R7S9,GET3_KOMPG,GET3 PAS_chr4_0405,ATPase GET3 (EC 3.6.-.-) (Arsenical pump-driving ATPase) (Arsenite-stimulated ATPase) (Golgi to ER traffic protein 3) (Guided entry of tail-anchored proteins 3),3.6.-.-
+C4R7X8,BMT2_KOMPG,BMT2 PAS_chr4_0450,Beta-mannosyltransferase 2 (EC 2.4.1.-),2.4.1.-
+C4R7X9,BMT1_KOMPG,BMT1 PAS_chr4_0451,Beta-mannosyltransferase 1 (EC 2.4.1.-),2.4.1.-
+C4R7Z2,C4R7Z2_KOMPG,SPB1 PAS_chr4_0464,AdoMet-dependent rRNA methyltransferase SPB1 (EC 2.1.1.-) (2'-O-ribose RNA methyltransferase) (S-adenosyl-L-methionine-dependent methyltransferase),2.1.1.-
+C4R7Z3,C9MT_KOMPG,PAS_chr4_0465,Sphingolipid C9-methyltransferase (C-9-MT) (EC 2.1.1.317),2.1.1.317
+C4R7Z8,BMT4_KOMPG,BMT4 PAS_chr4_0471,Beta-mannosyltransferase 4 (EC 2.4.1.-),2.4.1.-
+C4R822,C4R822_KOMPG,NTG1 PAS_chr4_0492,Endonuclease III homolog (EC 3.2.2.-) (EC 4.2.99.18) (Bifunctional DNA N-glycosylase/DNA-(apurinic or apyrimidinic site) lyase) (DNA glycosylase/AP lyase),3.2.2.-; 4.2.99.18
+C4R894,C4R894_KOMPG,PAS_chr4_0559,Glycosidase (EC 3.2.-.-),3.2.-.-
+C4R8E8,PURA_KOMPG,PAS_chr4_0613,Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase),6.3.4.4
+C4R8P0,C4R8P0_KOMPG,PAS_chr4_0703,Imidazole glycerol phosphate synthase hisHF [Includes: Glutaminase (EC 3.5.1.2); Cyclase],3.5.1.2
+C4R8S1,C4R8S1_KOMPG,PAS_chr4_0733,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1)",1.3.5.1
+C4R901,C4R901_KOMPG,NCP1 PAS_chr4_0806,NADPH--cytochrome P450 reductase (CPR) (P450R) (EC 1.6.2.4),1.6.2.4
+C4R924,C4R924_KOMPG,BNA4 PAS_chr4_0830,Kynurenine 3-monooxygenase (EC 1.14.13.9) (Biosynthesis of nicotinic acid protein 4) (Kynurenine 3-hydroxylase),1.14.13.9
+C4R9B4,C4R9B4_KOMPG,PAS_FragD_0019,Cation-transporting ATPase (EC 7.2.2.-),7.2.2.-
+Q6DNA2,ALG3_KOMPG,ALG3 PAS_chr4_0712,"Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (EC 2.4.1.258) (Asparagine-linked glycosylation protein 6) (Dol-P-Man-dependent alpha(1-3)-mannosyltransferase) (Dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichyl mannosyltransferase)",2.4.1.258
+Q9P4D1,ACT_KOMPG,ACT1 PAS_chr3_1169,Actin (EC 3.6.4.-),3.6.4.-
+C4QV06,C4QV06_KOMPG,PAS_chr1-3_0024,Succinate-semialdehyde dehydrogenase (EC 1.2.1.16),1.2.1.16
+C4QV10,C4QV10_KOMPG,PAS_chr1-3_0028,inorganic diphosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase),3.6.1.1
+C4QV11,C4QV11_KOMPG,PAS_chr1-3_0029,phosphoribosylanthranilate isomerase (EC 5.3.1.24),5.3.1.24
+C4QV32,C4QV32_KOMPG,PAS_chr1-3_0052,biotin synthase (EC 2.8.1.6),2.8.1.6
+C4QV52,C4QV52_KOMPG,PAS_chr1-3_0070,inorganic diphosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase),3.6.1.1
+C4QV61,C4QV61_KOMPG,PAS_chr1-3_0078,precorrin-2 dehydrogenase (EC 1.3.1.76),1.3.1.76
+C4QV80,C4QV80_KOMPG,PAS_chr1-3_0094,dihydrolipoyllysine-residue succinyltransferase (EC 2.3.1.61),2.3.1.61
+C4QV87,C4QV87_KOMPG,PAS_chr1-3_0100,1-phosphatidylinositol 4-kinase (EC 2.7.1.67),2.7.1.67
+C4QV90,C4QV90_KOMPG,PAS_chr1-3_0104,"Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)",4.2.1.-
+C4QVA9,C4QVA9_KOMPG,PAS_chr1-3_0122,UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9),2.7.7.9
+C4QVB6,C4QVB6_KOMPG,PAS_chr1-3_0129,Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8),5.2.1.8
+C4QVC0,C4QVC0_KOMPG,PAS_chr1-3_0133,very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase (EC 4.2.1.134),4.2.1.134
+C4QVC9,C4QVC9_KOMPG,PAS_chr1-3_0143,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4QVD1,C4QVD1_KOMPG,PAS_chr1-3_0144,RING-type E3 ubiquitin transferase (EC 2.3.2.27),2.3.2.27
+C4QVD7,C4QVD7_KOMPG,PAS_chr1-3_0150,E3 ubiquitin-protein ligase (EC 2.3.2.27),2.3.2.27
+C4QVE4,C4QVE4_KOMPG,PAS_chr1-3_0156,1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51),2.3.1.51
+C4QVH5,C4QVH5_KOMPG,PAS_chr1-3_0185,tRNA dimethylallyltransferase (EC 2.5.1.75),2.5.1.75
+C4QVH7,C4QVH7_KOMPG,PAS_chr1-3_0187,Mevalonate kinase (MK) (EC 2.7.1.36),2.7.1.36
+C4QVI1,C4QVI1_KOMPG,PAS_chr1-3_0191,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),6.3.5.2
+C4QVI3,C4QVI3_KOMPG,PAS_chr1-3_0193,protein-tyrosine-phosphatase (EC 3.1.3.48),3.1.3.48
+C4QVL3,C4QVL3_KOMPG,PAS_chr1-3_0225,"1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase)",2.4.1.34
+C4QVL4,C4QVL4_KOMPG,PAS_chr1-3_0226,"1,3-beta-glucanosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4QVL5,C4QVL5_KOMPG,PAS_chr1-3_0227,"1,3-beta-glucanosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4QVM0,C4QVM0_KOMPG,PAS_chr1-3_0306,E3 ubiquitin-protein ligase PEP5 (EC 2.3.2.27),2.3.2.27
+C4QVM7,C4QVM7_KOMPG,PAS_chr1-3_0238,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5),2.7.8.5
+C4QVN2,C4QVN2_KOMPG,SLX1 PAS_chr1-3_0243,Structure-specific endonuclease subunit SLX1 (EC 3.1.-.-),3.1.-.-
+C4QVN3,C4QVN3_KOMPG,PAS_chr1-3_0244,histidine--tRNA ligase (EC 6.1.1.21),6.1.1.21
+C4QVN8,C4QVN8_KOMPG,PAS_chr1-3_0247,Mitochondrial inner membrane protease subunit (EC 3.4.21.-),3.4.21.-
+C4QVQ2,C4QVQ2_KOMPG,PAS_chr1-3_0261,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4QVQ4,C4QVQ4_KOMPG,PAS_chr1-3_0264,Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8),5.2.1.8
+C4QVR0,C4QVR0_KOMPG,PAS_chr1-3_0269,Proline dehydrogenase (EC 1.5.5.2),1.5.5.2
+C4QVS9,C4QVS9_KOMPG,PAS_chr1-1_0002,Plasma membrane ATPase (EC 7.1.2.1),7.1.2.1
+C4QVT1,C4QVT1_KOMPG,PAS_chr1-1_0459,Dolichol-phosphate mannosyltransferase subunit 1 (EC 2.4.1.83),2.4.1.83
+C4QVT6,C4QVT6_KOMPG,PAS_chr1-1_0006,ribose-phosphate diphosphokinase (EC 2.7.6.1),2.7.6.1
+C4QVW0,C4QVW0_KOMPG,PAS_chr1-1_0029,Gamma-glutamylcyclotransferase (EC 4.3.2.7),4.3.2.7
+C4QVW3,C4QVW3_KOMPG,PAS_chr1-1_0465,triacylglycerol lipase (EC 3.1.1.3),3.1.1.3
+C4QVX5,C4QVX5_KOMPG,PAS_chr1-1_0040,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4QVY2,C4QVY2_KOMPG,PAS_chr1-1_0047,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase),6.1.1.6
+C4QVY4,C4QVY4_KOMPG,PAS_chr1-1_0049,Ribonuclease (EC 3.1.26.4),3.1.26.4
+C4QVY5,C4QVY5_KOMPG,PAS_chr1-1_0050,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),2.3.1.12
+C4QVZ7,C4QVZ7_KOMPG,PAS_chr1-1_0062,GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I),3.5.4.16
+C4QW09,C4QW09_KOMPG,PAS_chr1-1_0072,Fructose-bisphosphate aldolase (FBP aldolase) (EC 4.1.2.13),4.1.2.13
+C4QW55,C4QW55_KOMPG,PAS_chr1-1_0117,Calcium-transporting ATPase (EC 7.2.2.10),7.2.2.10
+C4QW69,C4QW69_KOMPG,PAS_chr1-1_0129,trimethyllysine dioxygenase (EC 1.14.11.8) (Epsilon-trimethyllysine 2-oxoglutarate dioxygenase) (TML hydroxylase) (TML-alpha-ketoglutarate dioxygenase),1.14.11.8
+C4QW88,C4QW88_KOMPG,PAS_chr1-1_0147,"Mannan endo-1,6-alpha-mannosidase (EC 3.2.1.101)",3.2.1.101
+C4QW94,C4QW94_KOMPG,PAS_chr1-1_0153,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4QWC7,C4QWC7_KOMPG,PAS_chr1-1_0184,Glutamate--cysteine ligase (EC 6.3.2.2) (Gamma-ECS) (Gamma-glutamylcysteine synthetase),6.3.2.2
+C4QWD7,C4QWD7_KOMPG,PAS_chr1-1_0194,Peptide hydrolase (EC 3.4.-.-),3.4.-.-
+C4QWE4,C4QWE4_KOMPG,PAS_chr1-1_0200,Aspartate aminotransferase (EC 2.6.1.1),2.6.1.1
+C4QWE7,C4QWE7_KOMPG,PAS_chr1-1_0202,Protein-serine/threonine kinase (EC 2.7.11.-),2.7.11.-
+C4QWG2,C4QWG2_KOMPG,PAS_chr1-1_0215,Mannosyl-oligosaccharide glucosidase (EC 3.2.1.106),3.2.1.106
+C4QWH6,C4QWH6_KOMPG,PAS_chr1-1_0230,tRNA (guanine(9)-N1)-methyltransferase (EC 2.1.1.221) (tRNA methyltransferase 10) (tRNA(m1G9)-methyltransferase),2.1.1.221
+C4QWH9,C4QWH9_KOMPG,PAS_chr1-1_0233,Isocitrate dehydrogenase [NADP] (EC 1.1.1.42),1.1.1.42
+C4QWI8,C4QWI8_KOMPG,PAS_chr1-1_0241,glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase),6.1.1.17
+C4QWI9,C4QWI9_KOMPG,PAS_chr1-1_0242,DNA topoisomerase (EC 5.6.2.1),5.6.2.1
+C4QWJ0,C4QWJ0_KOMPG,PAS_chr1-1_0243,Octanoyltransferase (EC 2.3.1.181),2.3.1.181
+C4QWL5,C4QWL5_KOMPG,PAS_chr1-1_0267,Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8),5.2.1.8
+C4QWM0,C4QWM0_KOMPG,PAS_chr1-1_0273,M-phase inducer phosphatase (EC 3.1.3.48),3.1.3.48
+C4QWN3,C4QWN3_KOMPG,PAS_chr1-1_0282,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),1.17.4.1
+C4QWN8,C4QWN8_KOMPG,PAS_chr1-1_0286,Dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109),2.4.1.109
+C4QWP6,C4QWP6_KOMPG,PAS_chr1-1_0293,Glycosidase (EC 3.2.-.-),3.2.-.-
+C4QWP8,C4QWP8_KOMPG,PAS_chr1-1_0295,JmjC domain-containing histone demethylation protein 1 (EC 1.14.11.27) ([Histone-H3]-lysine-36 demethylase 1),1.14.11.27
+C4QWQ0,C4QWQ0_KOMPG,PAS_chr1-1_0297,Protein-serine/threonine kinase (EC 2.7.11.-),2.7.11.-
+C4QWR1,C4QWR1_KOMPG,PAS_chr1-1_0307,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4QWR7,C4QWR7_KOMPG,PAS_chr1-1_0313,homocitrate synthase (EC 2.3.3.14),2.3.3.14
+C4QWS2,C4QWS2_KOMPG,PAS_chr1-1_0319,Fructose-bisphosphate aldolase (FBP aldolase) (EC 4.1.2.13),4.1.2.13
+C4QWU5,C4QWU5_KOMPG,PAS_chr1-1_0340,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4QWW6,C4QWW6_KOMPG,PAS_chr1-1_0363,HECT-type E3 ubiquitin transferase (EC 2.3.2.26),2.3.2.26
+C4QWX0,C4QWX0_KOMPG,PAS_chr1-1_0366,Ribonuclease H (RNase H) (EC 3.1.26.4),3.1.26.4
+C4QWZ4,C4QWZ4_KOMPG,PAS_chr1-1_0390,asparagine--tRNA ligase (EC 6.1.1.22) (Asparaginyl-tRNA synthetase),6.1.1.22
+C4QWZ5,C4QWZ5_KOMPG,PAS_chr1-1_0391,proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase),6.1.1.15
+C4QWZ6,C4QWZ6_KOMPG,PAS_chr1-1_0392,asparagine--tRNA ligase (EC 6.1.1.22) (Asparaginyl-tRNA synthetase),6.1.1.22
+C4QWZ7,C4QWZ7_KOMPG,PAS_chr1-1_0393,Chitin synthase (EC 2.4.1.16),2.4.1.16
+C4QX01,C4QX01_KOMPG,PAS_chr1-1_0397,Histidinol-phosphatase (HolPase) (EC 3.1.3.15),3.1.3.15
+C4QX33,C4QX33_KOMPG,PAS_chr1-1_0428,P-type Na(+) transporter (EC 7.2.2.3),7.2.2.3
+C4QX34,C4QX34_KOMPG,PAS_chr1-1_0430,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase),2.4.2.14
+C4QX39,C4QX39_KOMPG,PAS_chr1-1_0435,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4QX40,C4QX40_KOMPG,PAS_chr1-1_0436,ribose-phosphate diphosphokinase (EC 2.7.6.1),2.7.6.1
+C4QX51,C4QX51_KOMPG,PAS_chr1-1_0447,"Saccharopine dehydrogenase [NAD(+), L-lysine-forming] (SDH) (EC 1.5.1.7) (Lysine--2-oxoglutarate reductase)",1.5.1.7
+C4QX52,C4QX52_KOMPG,PAS_chr1-1_0448,pyridoxal 5'-phosphate synthase (EC 1.4.3.5),1.4.3.5
+C4QX63,C4QX63_KOMPG,PAS_chr1-4_0003,Diphosphomevalonate decarboxylase (EC 4.1.1.33),4.1.1.33
+C4QX69,C4QX69_KOMPG,PAS_chr1-4_0009,Dihydrofolate synthetase (EC 6.3.2.12),6.3.2.12
+C4QX78,C4QX78_KOMPG,PAS_chr1-4_0017,Endopolyphosphatase (EC 3.6.1.10),3.6.1.10
+C4QX83,C4QX83_KOMPG,PAS_chr1-4_0022,DNA-directed RNA polymerase (EC 2.7.7.6),2.7.7.6
+C4QX90,C4QX90_KOMPG,PAS_chr1-4_0029,tRNA-5-taurinomethyluridine 2-sulfurtransferase (EC 2.8.1.14),2.8.1.14
+C4QXA0,C4QXA0_KOMPG,PAS_chr1-4_0042,Glucose-6-phosphate 1-epimerase (EC 5.1.3.15),5.1.3.15
+C4QXB5,C4QXB5_KOMPG,PAS_chr1-4_0058,Electron transfer flavoprotein-ubiquinone oxidoreductase (ETF-QO) (EC 1.5.5.1),1.5.5.1
+C4QXC5,C4QXC5_KOMPG,PAS_chr1-4_0069,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4QXC7,C4QXC7_KOMPG,PAS_chr1-4_0071,Superoxide dismutase (EC 1.15.1.1),1.15.1.1
+C4QXD9,C4QXD9_KOMPG,PAS_chr1-4_0083,"indoleamine 2,3-dioxygenase (EC 1.13.11.52)",1.13.11.52
+C4QXF1,C4QXF1_KOMPG,PAS_chr1-4_0655,tRNA(Phe) 7-[(3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4)]-methyltransferase (EC 2.1.1.282),2.1.1.282
+C4QXF2,C4QXF2_KOMPG,PAS_chr1-4_0095,aspartate--tRNA ligase (EC 6.1.1.12) (Aspartyl-tRNA synthetase),6.1.1.12
+C4QXG0,C4QXG0_KOMPG,PAS_chr1-4_0104,serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (Seryl-tRNA(Ser) synthetase),6.1.1.11
+C4QXG2,C4QXG2_KOMPG,PAS_chr1-4_0106,Arginine N-methyltransferase 2 (EC 2.1.1.-),2.1.1.-
+C4QXG6,C4QXG6_KOMPG,PAS_chr1-4_0110,4a-hydroxytetrahydrobiopterin dehydratase (EC 4.2.1.96),4.2.1.96
+C4QXH9,C4QXH9_KOMPG,PAS_chr1-4_0123,Sugar phosphate phosphatase (EC 3.1.3.-),3.1.3.-
+C4QXI2,C4QXI2_KOMPG,PAS_chr1-4_0126,Palmitoyltransferase (EC 2.3.1.225),2.3.1.225
+C4QXJ8,C4QXJ8_KOMPG,PAS_chr1-4_0143,Phosphatidylinositol 4-kinase (EC 2.7.1.67),2.7.1.67
+C4QXK7,C4QXK7_KOMPG,PAS_chr1-4_0150,Transketolase (EC 2.2.1.1),2.2.1.1
+C4QXN3,C4QXN3_KOMPG,PAS_chr1-4_0173,RBR-type E3 ubiquitin transferase (EC 2.3.2.31),2.3.2.31
+C4QXN6,C4QXN6_KOMPG,PAS_chr1-4_0175,DNA 3'-5' helicase (EC 5.6.2.4),5.6.2.4
+C4QXP8,C4QXP8_KOMPG,PAS_chr1-4_0188,nitric oxide dioxygenase (EC 1.14.12.17),1.14.12.17
+C4QXQ1,C4QXQ1_KOMPG,PAS_chr1-4_0191,RNA helicase (EC 3.6.4.13),3.6.4.13
+C4QXQ8,C4QXQ8_KOMPG,PAS_chr1-4_0198,Pantoate--beta-alanine ligase (EC 6.3.2.1) (Pantoate-activating enzyme) (Pantothenate synthetase),6.3.2.1
+C4QXR2,C4QXR2_KOMPG,PAS_chr1-4_0202,"Phosphatidate cytidylyltransferase, mitochondrial (EC 2.7.7.41) (CDP-diacylglycerol synthase)",2.7.7.41
+C4QXR4,C4QXR4_KOMPG,PAS_chr1-4_0204,DNA helicase (EC 3.6.4.12),3.6.4.12
+C4QXS1,C4QXS1_KOMPG,PAS_chr1-4_0662,Aurora kinase (EC 2.7.11.1),2.7.11.1
+C4QXS7,C4QXS7_KOMPG,PAS_chr1-4_0215,"Amino-acid acetyltransferase, mitochondrial (EC 2.3.1.1) (Glutamate N-acetyltransferase) (N-acetylglutamate synthase)",2.3.1.1
+C4QXT0,C4QXT0_KOMPG,PAS_chr1-4_0218,Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54),2.5.1.54
+C4QXT3,C4QXT3_KOMPG,PAS_chr1-4_0222,precorrin-2 dehydrogenase (EC 1.3.1.76),1.3.1.76
+C4QXU6,C4QXU6_KOMPG,PAS_chr1-4_0234,ATP phosphoribosyltransferase (EC 2.4.2.17),2.4.2.17
+C4QXV4,C4QXV4_KOMPG,PAS_chr1-4_0242,"Mannan endo-1,6-alpha-mannosidase (EC 3.2.1.101)",3.2.1.101
+C4QXV5,C4QXV5_KOMPG,PAS_chr1-4_0243,Threonine dehydratase (EC 4.3.1.19) (Threonine deaminase),4.3.1.19
+C4QXW1,C4QXW1_KOMPG,PAS_chr1-4_0249,"Acetyl-CoA carboxylase, biotin containing enzyme",
+C4QXX5,C4QXX5_KOMPG,PAS_chr1-4_0264,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent) (EC 5.4.2.2)",5.4.2.2
+C4QXY7,C4QXY7_KOMPG,PAS_chr1-4_0697,Dihydrofolate reductase (EC 1.5.1.3),1.5.1.3
+C4QXZ2,C4QXZ2_KOMPG,PAS_chr1-4_0280,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4QY01,C4QY01_KOMPG,PAS_chr1-4_0287,"Histone-lysine N-methyltransferase, H3 lysine-36 specific (EC 2.1.1.359) (SET domain-containing protein 2)",2.1.1.359
+C4QY07,C4QY07_KOMPG,PAS_chr1-4_0292,Phosphoglycerate kinase (EC 2.7.2.3),2.7.2.3
+C4QY15,C4QY15_KOMPG,PAS_chr1-4_0298,Protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4QY20,C4QY20_KOMPG,PAS_chr1-4_0303,Porphobilinogen deaminase (EC 2.5.1.61) (Hydroxymethylbilane synthase) (Pre-uroporphyrinogen synthase),2.5.1.61
+C4QY21,C4QY21_KOMPG,PAS_chr1-4_0669,Gluconokinase (EC 2.7.1.12),2.7.1.12
+C4QY30,C4QY30_KOMPG,PAS_chr1-4_0312,Protein kinase domain-containing protein,
+C4QY41,C4QY41_KOMPG,PAS_chr1-4_0323,tRNA(His) guanylyltransferase (EC 2.7.7.79) (tRNA-histidine guanylyltransferase),2.7.7.79
+C4QY42,C4QY42_KOMPG,PAS_chr1-4_0324,DNA-directed RNA polymerase subunit beta (EC 2.7.7.6),2.7.7.6
+C4QY47,C4QY47_KOMPG,PAS_chr1-4_0328,Ribosomal RNA-processing protein 8 (EC 2.1.1.-),2.1.1.-
+C4QY49,C4QY49_KOMPG,PAS_chr1-4_0329,5-hydroxyisourate hydrolase (HIU hydrolase) (HIUHase) (EC 3.5.2.17),3.5.2.17
+C4QY61,C4QY61_KOMPG,PAS_chr1-4_0341,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4QY66,C4QY66_KOMPG,PAS_chr1-4_0347,Dipeptidyl peptidase 3 (EC 3.4.14.4) (Dipeptidyl aminopeptidase III) (Dipeptidyl peptidase III),3.4.14.4
+C4QY76,C4QY76_KOMPG,PAS_chr1-4_0356,ATP-dependent RNA helicase DBP10 (EC 3.6.4.13) (ATP-dependent RNA helicase dbp10),3.6.4.13
+C4QYB3,C4QYB3_KOMPG,PAS_chr1-4_0392,glutaminase (EC 3.5.1.2),3.5.1.2
+C4QYB4,C4QYB4_KOMPG,PAS_chr1-4_0393,pyridoxal 5'-phosphate synthase (glutamine hydrolyzing) (EC 4.3.3.6),4.3.3.6
+C4QYC2,C4QYC2_KOMPG,PAS_chr1-4_0399,D-aminoacyl-tRNA deacylase (EC 3.1.1.96),3.1.1.96
+C4QYE3,C4QYE3_KOMPG,PAS_chr1-4_0417,"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (EC 2.4.1.131)",2.4.1.131
+C4QYE7,C4QYE7_KOMPG,PAS_chr1-4_0421,homocitrate synthase (EC 2.3.3.14),2.3.3.14
+C4QYF6,C4QYF6_KOMPG,PAS_chr1-4_0429,isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2),5.3.3.2
+C4QYG9,C4QYG9_KOMPG,PAS_chr1-4_0441,Amine oxidase (EC 1.4.3.-),1.4.3.-
+C4QYH5,C4QYH5_KOMPG,PAS_chr1-4_0447,Phosphotransferase (EC 2.7.1.-),2.7.1.-
+C4QYH6,C4QYH6_KOMPG,ALG13 PAS_chr1-4_0448,UDP-N-acetylglucosamine transferase subunit ALG13 (EC 2.4.1.141) (Asparagine-linked glycosylation protein 13),2.4.1.141
+C4QYH8,C4QYH8_KOMPG,PAS_chr1-4_0450,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),6.3.2.6
+C4QYI6,C4QYI6_KOMPG,PAS_chr1-4_0457,tRNA wybutosine-synthesizing protein 4 (EC 2.1.1.290) (EC 2.3.1.231) (tRNA(Phe) (7-(3-amino-3-(methoxycarbonyl)propyl)wyosine(37)-N)-methoxycarbonyltransferase) (tRNA(Phe) (7-(3-amino-3-carboxypropyl)wyosine(37)-O)-methyltransferase),2.1.1.290; 2.3.1.231
+C4QYI7,C4QYI7_KOMPG,PAS_chr1-4_0458,dihydroxy-acid dehydratase (EC 4.2.1.9),4.2.1.9
+C4QYJ2,C4QYJ2_KOMPG,PAS_chr1-4_0463,serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (Seryl-tRNA(Ser) synthetase),6.1.1.11
+C4QYK4,C4QYK4_KOMPG,PAS_chr1-4_0475,"Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC 2.4.1.256)",2.4.1.256
+C4QYM5,C4QYM5_KOMPG,PAS_chr1-4_0496,Glutathione synthetase (GSH-S) (EC 6.3.2.3),6.3.2.3
+C4QYM6,C4QYM6_KOMPG,PAS_chr1-4_0685,dolichyl-diphosphooligosaccharide--protein glycotransferase (EC 2.4.99.18),2.4.99.18
+C4QYP2,C4QYP2_KOMPG,PAS_chr1-4_0514,cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase),6.1.1.16
+C4QYQ0,C4QYQ0_KOMPG,PAS_chr1-4_0522,Cysteine protease (EC 3.4.22.-),3.4.22.-
+C4QYQ2,C4QYQ2_KOMPG,PAS_chr1-4_0524,Guanine deaminase (Guanase) (EC 3.5.4.3) (Guanine aminohydrolase),3.5.4.3
+C4QYR3,C4QYR3_KOMPG,PAS_chr1-4_0534,leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase),6.1.1.4
+C4QYR9,C4QYR9_KOMPG,PAS_chr1-4_0538,Acyl-coenzyme A oxidase,
+C4QYS2,C4QYS2_KOMPG,PAS_chr1-4_0541,separase (EC 3.4.22.49),3.4.22.49
+C4QYT3,C4QYT3_KOMPG,PAS_chr1-4_0551,phosphoribosylformylglycinamidine synthase (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase) (Formylglycinamide ribotide amidotransferase),6.3.5.3
+C4QYU0,C4QYU0_KOMPG,PAS_chr1-4_0558,phenylalanine--tRNA ligase (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase),6.1.1.20
+C4QYU3,C4QYU3_KOMPG,PAS_chr1-4_0561,Phosphotransferase (EC 2.7.1.-),2.7.1.-
+C4QYW8,C4QYW8_KOMPG,PAS_chr1-4_0585,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4QYX7,C4QYX7_KOMPG,PAS_chr1-4_0592,RNA helicase (EC 3.6.4.13),3.6.4.13
+C4QYX8,C4QYX8_KOMPG,PAS_chr1-4_0593,Pyruvate dehydrogenase E1 component subunit beta (EC 1.2.4.1),1.2.4.1
+C4QYY3,C4QYY3_KOMPG,PAS_chr1-4_0598,glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase),6.1.1.17
+C4QYY7,C4QYY7_KOMPG,EFM5 PAS_chr1-4_0602,Protein-lysine N-methyltransferase EFM5 (EC 2.1.1.-) (Elongation factor methyltransferase 5),2.1.1.-
+C4QYZ6,C4QYZ6_KOMPG,PAS_chr1-4_0611,Peptide hydrolase (EC 3.4.-.-),3.4.-.-
+C4QZ49,C4QZ49_KOMPG,PAS_c121_0010,Palmitoyltransferase (EC 2.3.1.225),2.3.1.225
+C4QZ65,C4QZ65_KOMPG,PAS_FragB_0008,Phosphodiesterase (EC 3.1.4.-),3.1.4.-
+C4QZB1,C4QZB1_KOMPG,PAS_FragB_0053,Glycine cleavage system P protein (EC 1.4.4.2),1.4.4.2
+C4QZB8,C4QZB8_KOMPG,PAS_FragB_0061,Phosphoenolpyruvate carboxykinase (ATP) (EC 4.1.1.49),4.1.1.49
+C4QZD3,C4QZD3_KOMPG,PAS_chr2-1_0008,Peptide-methionine (R)-S-oxide reductase (EC 1.8.4.12),1.8.4.12
+C4QZH6,C4QZH6_KOMPG,PAS_chr2-1_0807,Phospholipid-transporting ATPase (EC 7.6.2.1),7.6.2.1
+C4QZH8,C4QZH8_KOMPG,PAS_chr2-1_0051,Inositol oxygenase (EC 1.13.99.1) (Myo-inositol oxygenase),1.13.99.1
+C4QZI3,C4QZI3_KOMPG,PAS_chr2-1_0056,Palmitoyltransferase (EC 2.3.1.225),2.3.1.225
+C4QZI4,C4QZI4_KOMPG,PAS_chr2-1_0057,Phospholipid-transporting ATPase (EC 7.6.2.1),7.6.2.1
+C4QZJ2,C4QZJ2_KOMPG,PAS_chr2-1_0065,chitin synthase (EC 2.4.1.16),2.4.1.16
+C4QZJ4,C4QZJ4_KOMPG,PAS_chr2-1_0067,tRNA pseudouridine(55) synthase (EC 5.4.99.25),5.4.99.25
+C4QZJ9,C4QZJ9_KOMPG,PAS_chr2-1_0072,Acyl-CoA desaturase (EC 1.14.19.1),1.14.19.1
+C4QZL6,C4QZL6_KOMPG,PAS_chr2-1_0089,oxoglutarate dehydrogenase (succinyl-transferring) (EC 1.2.4.2),1.2.4.2
+C4QZL7,C4QZL7_KOMPG,PAS_chr2-1_0090,tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216),2.1.1.216
+C4QZN1,C4QZN1_KOMPG,PAS_chr2-1_0103,acid phosphatase (EC 3.1.3.2),3.1.3.2
+C4QZN6,C4QZN6_KOMPG,PAS_chr2-1_0107,4-aminobutyrate aminotransferase (EC 2.6.1.19) (GABA aminotransferase) (Gamma-amino-N-butyrate transaminase),2.6.1.19
+C4QZP2,C4QZP2_KOMPG,PAS_chr2-1_0112,Cell division control protein 42 homolog (EC 3.6.5.2),3.6.5.2
+C4QZP5,C4QZP5_KOMPG,PAS_chr2-1_0115,Peroxidase (EC 1.11.1.-),1.11.1.-
+C4QZQ0,C4QZQ0_KOMPG,PAS_chr2-1_0120,isocitrate dehydrogenase (NAD(+)) (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH),1.1.1.41
+C4QZQ2,C4QZQ2_KOMPG,PAS_chr2-1_0122,proteasome endopeptidase complex (EC 3.4.25.1),3.4.25.1
+C4QZQ3,C4QZQ3_KOMPG,PAS_chr2-1_0123,isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (Leucyl-tRNA synthetase),6.1.1.5
+C4QZQ6,C4QZQ6_KOMPG,PAS_chr2-1_0124,"Elongation factor 2 (EF-2), also encoded by EFT1",
+C4QZQ7,C4QZQ7_KOMPG,PAS_chr2-1_0125,DNA-directed RNA polymerase subunit beta (EC 2.7.7.6),2.7.7.6
+C4QZS3,C4QZS3_KOMPG,PAS_chr2-1_0140,Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (Immunoglobulin heavy chain-binding protein homolog),3.6.4.10
+C4QZS9,C4QZS9_KOMPG,PAS_chr2-1_0146,Bis(5'-adenosyl)-triphosphatase (EC 3.6.1.29),3.6.1.29
+C4QZT3,C4QZT3_KOMPG,PAS_chr2-1_0150,Sulfhydryl oxidase (EC 1.8.3.2),1.8.3.2
+C4QZT5,C4QZT5_KOMPG,PAS_chr2-1_0152,NEDD8-activating enzyme E1 catalytic subunit (EC 6.2.1.64),6.2.1.64
+C4QZU0,C4QZU0_KOMPG,PAS_chr2-1_0158,anthranilate synthase (EC 4.1.3.27),4.1.3.27
+C4QZU2,C4QZU2_KOMPG,PAS_chr2-1_0160,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase (EC 2.1.1.14),2.1.1.14
+C4QZU4,C4QZU4_KOMPG,PAS_chr2-1_0162,histidine kinase (EC 2.7.13.3),2.7.13.3
+C4QZU5,C4QZU5_KOMPG,PAS_chr2-1_0163,DNA polymerase (EC 2.7.7.7),2.7.7.7
+C4QZV6,C4QZV6_KOMPG,PAS_chr2-1_0173,"Alpha-1,4 glucan phosphorylase (EC 2.4.1.1)",2.4.1.1
+C4QZW2,C4QZW2_KOMPG,PAS_chr2-1_0178,phosphoinositide 5-phosphatase (EC 3.1.3.36),3.1.3.36
+C4QZW7,C4QZW7_KOMPG,PAS_chr2-1_0183,Acyl-protein thioesterase 1 (Palmitoyl-protein hydrolase),
+C4QZX5,C4QZX5_KOMPG,PAS_chr2-1_0191,Hydroxymethylglutaryl-CoA synthase (HMG-CoA synthase) (EC 2.3.3.10) (3-hydroxy-3-methylglutaryl coenzyme A synthase),2.3.3.10
+C4QZY1,C4QZY1_KOMPG,PAS_chr2-1_0197,"D-arabinono-1,4-lactone oxidase (ALO) (EC 1.1.3.37) (L-galactono-gamma-lactone oxidase)",1.1.3.37
+C4QZY3,C4QZY3_KOMPG,PAS_chr2-1_0199,NADH-cytochrome b5 reductase (EC 1.6.2.2),1.6.2.2
+C4QZY8,C4QZY8_KOMPG,PAS_chr2-1_0204,ribonuclease T2 (EC 4.6.1.19),4.6.1.19
+C4QZZ3,C4QZZ3_KOMPG,PAS_chr2-1_0209,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),1.17.4.1
+C4QZZ6,C4QZZ6_KOMPG,PAS_chr2-1_0212,Dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109),2.4.1.109
+C4R022,C4R022_KOMPG,PAS_chr2-1_0236,Sulfiredoxin (EC 1.8.98.2),1.8.98.2
+C4R024,C4R024_KOMPG,PAS_chr2-1_0238,Malate dehydrogenase (EC 1.1.1.37),1.1.1.37
+C4R039,C4R039_KOMPG,PAS_chr2-1_0251,N-alpha-acetyltransferase 40 (EC 2.3.1.257),2.3.1.257
+C4R044,C4R044_KOMPG,PAS_chr2-1_0256,Dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109),2.4.1.109
+C4R051,C4R051_KOMPG,PAS_chr2-1_0263,"1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase)",2.4.1.34
+C4R057,C4R057_KOMPG,PAS_chr2-1_0269,threonine synthase (EC 4.2.3.1),4.2.3.1
+C4R064,C4R064_KOMPG,PAS_chr2-1_0274,Postreplication repair E3 ubiquitin-protein ligase RAD18 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RAD18),2.3.2.27
+C4R094,C4R094_KOMPG,PAS_chr2-1_0303,phosphatidylinositol N-acetylglucosaminyltransferase (EC 2.4.1.198) (GlcNAc-PI synthesis protein),2.4.1.198
+C4R098,C4R098_KOMPG,PAS_chr2-1_0307,Amine oxidase (EC 1.4.3.-),1.4.3.-
+C4R099,C4R099_KOMPG,PAS_chr2-1_0308,Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49),1.1.1.49
+C4R0A2,C4R0A2_KOMPG,PAS_chr2-1_0311,NAD-specific glutamate dehydrogenase (EC 1.4.1.2),1.4.1.2
+C4R0C2,C4R0C2_KOMPG,PAS_chr2-1_0829,Palmitoyltransferase (EC 2.3.1.225),2.3.1.225
+C4R0E2,C4R0E2_KOMPG,PAS_chr2-1_0346,methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase),6.1.1.10
+C4R0E3,C4R0E3_KOMPG,PAS_chr2-1_0347,EKC/KEOPS complex subunit BUD32 (EC 2.7.11.1) (Atypical Serine/threonine protein kinase BUD32) (EKC/KEOPS complex subunit bud32),2.7.11.1
+C4R0F0,C4R0F0_KOMPG,PAS_chr2-1_0354,E3 ubiquitin-protein ligase (EC 2.3.2.26),2.3.2.26
+C4R0H0,C4R0H0_KOMPG,PAS_chr2-1_0373,Telomerase reverse transcriptase (EC 2.7.7.49) (Telomerase catalytic subunit),2.7.7.49
+C4R0I8,C4R0I8_KOMPG,PAS_chr2-1_0391,lanosterol synthase (EC 5.4.99.7),5.4.99.7
+C4R0J3,C4R0J3_KOMPG,PAS_chr2-1_0396,methionine--tRNA ligase (EC 6.1.1.10),6.1.1.10
+C4R0J5,C4R0J5_KOMPG,PAS_chr2-1_0398,Non-structural maintenance of chromosomes element 1 homolog (EC 2.3.2.27),2.3.2.27
+C4R0K4,C4R0K4_KOMPG,PAS_chr2-1_0407,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R0L2,C4R0L2_KOMPG,PAS_chr2-1_0415,2-isopropylmalate synthase (EC 2.3.3.13),2.3.3.13
+C4R0M3,C4R0M3_KOMPG,PAS_chr2-1_0424,phosphoinositide 5-phosphatase (EC 3.1.3.36),3.1.3.36
+C4R0N6,C4R0N6_KOMPG,PAS_chr2-1_0845,RNA polymerase II subunit A C-terminal domain phosphatase (EC 3.1.3.16),3.1.3.16
+C4R0N9,C4R0N9_KOMPG,PAS_chr2-1_0435,Mitochondrial intermediate peptidase (EC 3.4.24.59),3.4.24.59
+C4R0S5,C4R0S5_KOMPG,PAS_chr2-1_0850,"Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 7.1.1.8)",7.1.1.8
+C4R0S9,C4R0S9_KOMPG,PAS_chr2-1_0473,3-deoxy-7-phosphoheptulonate synthase (EC 2.5.1.54),2.5.1.54
+C4R0V4,C4R0V4_KOMPG,PAS_chr2-1_0498,dolichol kinase (EC 2.7.1.108),2.7.1.108
+C4R0X6,C4R0X6_KOMPG,PAS_chr2-1_0517,Ribosomal lysine N-methyltransferase 4 (EC 2.1.1.-),2.1.1.-
+C4R0Y4,C4R0Y4_KOMPG,PAS_chr2-1_0523,tRNA:m(4)X modification enzyme TRM13 (EC 2.1.1.225),2.1.1.225
+C4R0Z2,C4R0Z2_KOMPG,PAS_chr2-1_0533,uroporphyrinogen-III synthase (EC 4.2.1.75) (Hydroxymethylbilane hydrolyase [cyclizing]) (Uroporphyrinogen-III cosynthase),4.2.1.75
+C4R107,C4R107_KOMPG,PAS_chr2-1_0547,"3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)",3.1.3.7
+C4R109,C4R109_KOMPG,PAS_chr2-1_0549,"Alpha-1,3-glucosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4R117,C4R117_KOMPG,PAS_chr2-1_0557,Serine/threonine-protein kinase TOR (EC 2.7.11.1),2.7.11.1
+C4R138,C4R138_KOMPG,PAS_chr2-1_0577,diphthine methyl ester synthase (EC 2.1.1.314),2.1.1.314
+C4R142,C4R142_KOMPG,PAS_chr2-1_0580,Isocitrate dehydrogenase [NADP] (EC 1.1.1.42),1.1.1.42
+C4R156,C4R156_KOMPG,PAS_chr2-1_0593,dihydroorotase (EC 3.5.2.3),3.5.2.3
+C4R181,C4R181_KOMPG,PAS_chr2-1_0615,rRNA adenine N(6)-methyltransferase (EC 2.1.1.-),2.1.1.-
+C4R194,C4R194_KOMPG,PAS_chr2-1_0626,glutamine--fructose-6-phosphate transaminase (isomerizing) (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (Hexosephosphate aminotransferase),2.6.1.16
+C4R1A7,C4R1A7_KOMPG,PAS_chr2-1_0637,Chorismate synthase (EC 4.2.3.5),4.2.3.5
+C4R1C3,C4R1C3_KOMPG,PAS_chr2-1_0652,Aminopeptidase (EC 3.4.11.-),3.4.11.-
+C4R1C8,C4R1C8_KOMPG,PAS_chr2-1_0657,phosphoglycerate dehydrogenase (EC 1.1.1.95),1.1.1.95
+C4R1D2,C4R1D2_KOMPG,PAS_chr2-1_0661,"1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase)",2.4.1.34
+C4R1E5,C4R1E5_KOMPG,PAS_chr2-1_0673,threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase),6.1.1.3
+C4R1F2,C4R1F2_KOMPG,PAS_chr2-1_0679,Tryptophan synthase (EC 4.2.1.20),4.2.1.20
+C4R1G1,C4R1G1_KOMPG,PAS_chr2-1_0688,RuvB-like helicase (EC 3.6.4.12),3.6.4.12
+C4R1G9,C4R1G9_KOMPG,PAS_chr2-1_0695,CDP-diacylglycerol--inositol 3-phosphatidyltransferase (EC 2.7.8.11),2.7.8.11
+C4R1H3,C4R1H3_KOMPG,PAS_chr2-1_0699,GPI inositol-deacylase (EC 3.1.-.-),3.1.-.-
+C4R1J1,C4R1J1_KOMPG,PAS_chr2-1_0716,5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase),2.3.1.37
+C4R1K2,C4R1K2_KOMPG,PAS_chr2-1_0727,UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.15) (GlcNAc-1-P transferase) (N-acetylglucosamine-1-phosphate transferase),2.7.8.15
+C4R1K6,C4R1K6_KOMPG,PAS_chr2-1_0730,Protein DOM34 homolog (EC 3.1.-.-),3.1.-.-
+C4R1N0,C4R1N0_KOMPG,PAS_chr2-1_0753,"alpha-1,2-Mannosidase (EC 3.2.1.-)",3.2.1.-
+C4R1N5,C4R1N5_KOMPG,PAS_chr2-1_0756,Phospholipid-transporting ATPase (EC 7.6.2.1),7.6.2.1
+C4R1P7,C4R1P7_KOMPG,PAS_chr2-1_0767,Acetyl-coenzyme A synthetase (EC 6.2.1.1),6.2.1.1
+C4R1P8,C4R1P8_KOMPG,PAS_chr2-1_0768,DNA repair protein REV1 (EC 2.7.7.-),2.7.7.-
+C4R1P9,C4R1P9_KOMPG,PAS_chr2-1_0769,Pyruvate kinase (EC 2.7.1.40),2.7.1.40
+C4R1Q0,C4R1Q0_KOMPG,PAS_chr2-1_0770,Uridine kinase (EC 2.7.1.48),2.7.1.48
+C4R1Q9,C4R1Q9_KOMPG,PAS_chr2-1_0777,Pseudouridine synthase (EC 5.4.99.-),5.4.99.-
+C4R1T2,C4R1T2_KOMPG,PAS_chr2-1_0797,General transcription and DNA repair factor IIH helicase subunit XPD (EC 3.6.4.12),3.6.4.12
+C4R1T6,C4R1T6_KOMPG,PAS_chr2-1_0801,Serine/threonine protein kinase that inhibits pheromone induced signalling downstream of MAPK,
+C4R1X5,C4R1X5_KOMPG,PAS_chr2-2_0496,Multifunctional fusion protein [Includes: Delta-1-pyrroline-5-carboxylate dehydrogenase (P5C dehydrogenase) (L-glutamate gamma-semialdehyde dehydrogenase); L-glutamate gamma-semialdehyde dehydrogenase (EC 1.2.1.88)],1.2.1.88
+C4R1Y4,C4R1Y4_KOMPG,PAS_chr2-2_0401,choline-phosphate cytidylyltransferase (EC 2.7.7.15),2.7.7.15
+C4R1Z5,C4R1Z5_KOMPG,PAS_chr2-2_0387,DNA-directed RNA polymerase subunit (EC 2.7.7.6),2.7.7.6
+C4R1Z9,C4R1Z9_KOMPG,PAS_chr2-2_0382,Glutathione peroxidase,
+C4R200,C4R200_KOMPG,PAS_chr2-2_0381,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8),5.2.1.8
+C4R201,C4R201_KOMPG,PAS_chr2-2_0380,Aminopeptidase (EC 3.4.11.-),3.4.11.-
+C4R206,C4R206_KOMPG,PAS_chr2-2_0375,peptidylprolyl isomerase (EC 5.2.1.8),5.2.1.8
+C4R217,C4R217_KOMPG,PAS_chr2-2_0494,"Histone-lysine N-methyltransferase, H3 lysine-4 specific (EC 2.1.1.354)",2.1.1.354
+C4R232,C4R232_KOMPG,PAS_chr2-2_0349,DNA polymerase (EC 2.7.7.7),2.7.7.7
+C4R244,C4R244_KOMPG,PAS_chr2-2_0338,transaldolase (EC 2.2.1.2),2.2.1.2
+C4R245,C4R245_KOMPG,PAS_chr2-2_0337,Transaldolase (EC 2.2.1.2),2.2.1.2
+C4R260,C4R260_KOMPG,PAS_chr2-2_0322,Cysteine dioxygenase (EC 1.13.11.20),1.13.11.20
+C4R264,C4R264_KOMPG,PAS_chr2-2_0318,Phosphomevalonate kinase (EC 2.7.4.2),2.7.4.2
+C4R265,C4R265_KOMPG,PAS_chr2-2_0317,Prephenate dehydrogenase [NADP(+)] (PRDH) (EC 1.3.1.13),1.3.1.13
+C4R277,C4R277_KOMPG,PAS_chr2-2_0492,Aminomethyltransferase (EC 2.1.2.10) (Glycine cleavage system T protein),2.1.2.10
+C4R281,C4R281_KOMPG,PAS_chr2-2_0302,Multifunctional enzyme of the folic acid biosynthesis pathway,
+C4R286,C4R286_KOMPG,PAS_chr2-2_0297,Serine/threonine-protein kinase MEC1 (EC 2.7.11.1) (ATR homolog) (DNA-damage checkpoint kinase MEC1) (Mitosis entry checkpoint protein 1),2.7.11.1
+C4R290,C4R290_KOMPG,PAS_chr2-2_0294,Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1),1.2.4.1
+C4R291,C4R291_KOMPG,PAS_chr2-2_0293,Holocytochrome c-type synthase (EC 4.4.1.17),4.4.1.17
+C4R295,C4R295_KOMPG,PAS_chr2-2_0290,Holocytochrome c-type synthase (EC 4.4.1.17),4.4.1.17
+C4R298,C4R298_KOMPG,PAS_chr2-2_0288,Arginase (EC 3.5.3.1),3.5.3.1
+C4R2A8,C4R2A8_KOMPG,PAS_chr2-2_0280,DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18),4.2.99.18
+C4R2A9,C4R2A9_KOMPG,PAS_chr2-2_0279,Uricase (EC 1.7.3.3) (Urate oxidase),1.7.3.3
+C4R2B8,C4R2B8_KOMPG,PAS_chr2-2_0484,Serine/threonine-protein phosphatase 2A activator (EC 5.2.1.8) (Phosphotyrosyl phosphatase activator),5.2.1.8
+C4R2D6,C4R2D6_KOMPG,PAS_chr2-2_0254,Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63) (6-O-methylguanine-DNA methyltransferase) (DNA repair MTase) (O-6-methylguanine-DNA-alkyltransferase),2.1.1.63
+C4R2E2,C4R2E2_KOMPG,PAS_chr2-2_0481,asparaginase (EC 3.5.1.1),3.5.1.1
+C4R2E5,C4R2E5_KOMPG,PAS_chr2-2_0245,tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase),6.1.1.2
+C4R2E7,C4R2E7_KOMPG,PAS_chr2-2_0480,Thioredoxin reductase (EC 1.8.1.9),1.8.1.9
+C4R2F4,C4R2F4_KOMPG,PAS_chr2-2_0238,threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase),6.1.1.3
+C4R2F8,C4R2F8_KOMPG,PAS_chr2-2_0234,Leucine carboxyl methyltransferase 1 (EC 2.1.1.233),2.1.1.233
+C4R2F9,C4R2F9_KOMPG,PAS_chr2-2_0233,Protein arginine methyltransferase NDUFAF7 (EC 2.1.1.320),2.1.1.320
+C4R2G2,C4R2G2_KOMPG,PAS_chr2-2_0230,3-hydroxy-3-methylglutaryl coenzyme A reductase (HMG-CoA reductase) (EC 1.1.1.34),1.1.1.34
+C4R2G3,C4R2G3_KOMPG,PAS_chr2-2_0476,FK506-binding protein (EC 5.2.1.8),5.2.1.8
+C4R2H5,C4R2H5_KOMPG,PAS_chr2-2_0218,aminoacyl-tRNA hydrolase (EC 3.1.1.29),3.1.1.29
+C4R2I0,C4R2I0_KOMPG,PAS_chr2-2_0213,histone acetyltransferase (EC 2.3.1.48),2.3.1.48
+C4R2I4,C4R2I4_KOMPG,PAS_chr2-2_0209,proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase),6.1.1.15
+C4R2J1,C4R2J1_KOMPG,PAS_chr2-2_0203,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4R2N5,C4R2N5_KOMPG,PAS_chr2-2_0165,ATP synthase subunit beta (EC 7.1.2.2),7.1.2.2
+C4R2N8,C4R2N8_KOMPG,PAS_chr2-2_0163,2-dehydropantoate 2-reductase (EC 1.1.1.169) (Ketopantoate reductase),1.1.1.169
+C4R2N9,C4R2N9_KOMPG,PAS_chr2-2_0162,Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase),2.7.1.20
+C4R2P6,C4R2P6_KOMPG,PAS_chr2-2_0157,tRNA-splicing endonuclease subunit Sen2 (EC 4.6.1.16),4.6.1.16
+C4R2Q9,C4R2Q9_KOMPG,PAS_chr2-2_0142,Bifunctional carbamoylphosphate synthetase (CPSase)-aspartate transcarbamylase (ATCase),
+C4R2R4,C4R2R4_KOMPG,PAS_chr2-2_0137,Cystathionine beta-synthase (EC 4.2.1.22),4.2.1.22
+C4R2S0,C4R2S0_KOMPG,PAS_chr2-2_0462,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (EC 7.1.1.2)",7.1.1.2
+C4R2S1,C4R2S1_KOMPG,PAS_chr2-2_0131,Catalase (EC 1.11.1.6),1.11.1.6
+C4R2S5,C4R2S5_KOMPG,PAS_chr2-2_0127,Peroxidase (EC 1.11.1.-),1.11.1.-
+C4R2T9,C4R2T9_KOMPG,PAS_chr2-2_0113,inositol-3-phosphate synthase (EC 5.5.1.4),5.5.1.4
+C4R2U1,C4R2U1_KOMPG,PAS_chr2-2_0111,Glycerol-3-phosphate dehydrogenase [NAD(+)] (EC 1.1.1.8),1.1.1.8
+C4R2V9,C4R2V9_KOMPG,PAS_chr2-2_0094,chitin synthase (EC 2.4.1.16),2.4.1.16
+C4R2W0,C4R2W0_KOMPG,PAS_chr2-2_0460,tRNA-splicing endonuclease subunit Sen34 (EC 4.6.1.16),4.6.1.16
+C4R2X1,C4R2X1_KOMPG,PAS_chr2-2_0084,Alkaline phosphatase (EC 3.1.3.1),3.1.3.1
+C4R2Y1,C4R2Y1_KOMPG,PAS_chr2-2_0076,GPI ethanolamine phosphate transferase 1 (EC 2.-.-.-),2.-.-.-
+C4R2Y2,C4R2Y2_KOMPG,PAS_chr2-2_0075,aminodeoxychorismate synthase (EC 2.6.1.85) (Para-aminobenzoate synthase) (p-aminobenzoic acid synthase),2.6.1.85
+C4R300,C4R300_KOMPG,PAS_chr2-2_0059,Nucleoside diphosphate kinase (EC 2.7.4.6),2.7.4.6
+C4R302,C4R302_KOMPG,PAS_chr2-2_0057,Ubiquitin thioesterase OTU (EC 3.4.19.12),3.4.19.12
+C4R306,C4R306_KOMPG,PAS_chr2-2_0053,Phosphomannomutase (EC 5.4.2.8),5.4.2.8
+C4R312,C4R312_KOMPG,PAS_chr2-2_0048,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),1.8.1.4
+C4R316,C4R316_KOMPG,PAS_chr2-2_0044,Phosphatidate cytidylyltransferase (EC 2.7.7.41),2.7.7.41
+C4R323,C4R323_KOMPG,PAS_chr2-2_0039,Mannosyltransferase (EC 2.4.1.-),2.4.1.-
+C4R326,C4R326_KOMPG,PAS_chr2-2_0036,Mannosyltransferase (EC 2.4.1.-),2.4.1.-
+C4R328,C4R328_KOMPG,PAS_chr2-2_0034,4-nitrophenylphosphatase (PNPPase) (EC 3.1.3.41),3.1.3.41
+C4R342,C4R342_KOMPG,PAS_chr2-2_0021,"Dihydroorotate dehydrogenase (quinone), mitochondrial (DHOdehase) (EC 1.3.5.2)",1.3.5.2
+C4R361,C4R361_KOMPG,PAS_chr3_1128,Histone acetyltransferase GCN5 (EC 2.3.1.48),2.3.1.48
+C4R373,C4R373_KOMPG,PAS_chr3_1138,adenine phosphoribosyltransferase (EC 2.4.2.7),2.4.2.7
+C4R379,C4R379_KOMPG,PAS_c131_0001,peptidylprolyl isomerase (EC 5.2.1.8),5.2.1.8
+C4R382,C4R382_KOMPG,PAS_c131_0004,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R395,C4R395_KOMPG,PAS_c131_0017,Trehalose-6-phosphate synthase (EC 2.4.1.15) (UDP-glucose-glucosephosphate glucosyltransferase),2.4.1.15
+C4R3D0,C4R3D0_KOMPG,PAS_chr3_0039,3-isopropylmalate dehydrogenase (EC 1.1.1.85),1.1.1.85
+C4R3D4,C4R3D4_KOMPG,PAS_chr3_0043,RING-type E3 ubiquitin transferase (cysteine targeting) (EC 2.3.2.36) (Peroxin-2),2.3.2.36
+C4R3E5,C4R3E5_KOMPG,PAS_chr3_0052,Thiamine pyrophosphokinase (EC 2.7.6.2),2.7.6.2
+C4R3F1,C4R3F1_KOMPG,PAS_chr3_0058,"NADPH:adrenodoxin oxidoreductase, mitochondrial (EC 1.18.1.6)",1.18.1.6
+C4R3F6,C4R3F6_KOMPG,PAS_chr3_0062,ribose-phosphate diphosphokinase (EC 2.7.6.1),2.7.6.1
+C4R3H8,C4R3H8_KOMPG,PAS_chr3_0082,phosphopyruvate hydratase (EC 4.2.1.11),4.2.1.11
+C4R3I1,C4R3I1_KOMPG,PAS_chr3_0085,Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21),4.1.1.21
+C4R3K2,C4R3K2_KOMPG,PAS_chr3_0107,Sporulation-specific chitinase,
+C4R3L1,C4R3L1_KOMPG,PAS_chr3_0117,ubiquitinyl hydrolase 1 (EC 3.4.19.12),3.4.19.12
+C4R3L8,C4R3L8_KOMPG,PAS_chr3_0124,Squalene monooxygenase (EC 1.14.14.17),1.14.14.17
+C4R3M3,C4R3M3_KOMPG,PAS_chr3_0130,Protein-S-isoprenylcysteine O-methyltransferase (EC 2.1.1.100),2.1.1.100
+C4R3N8,C4R3N8_KOMPG,PAS_chr3_0144,phenylalanine--tRNA ligase (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit),6.1.1.20
+C4R3P7,C4R3P7_KOMPG,PAS_chr3_0156,"2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase (EC 1.1.1.302) (2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one reductase) (2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate synthase)",1.1.1.302
+C4R3Q5,C4R3Q5_KOMPG,PAS_chr3_0165,tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase),6.1.1.2
+C4R3Q6,C4R3Q6_KOMPG,PAS_chr3_0166,arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase),6.1.1.19
+C4R3Q8,C4R3Q8_KOMPG,PAS_chr3_0167,"3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)",4.1.99.12
+C4R3S8,C4R3S8_KOMPG,PAS_chr3_0184,"1,3-beta-glucanosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4R3V6,C4R3V6_KOMPG,PAS_chr3_0213,tRNA (uracil-O(2)-)-methyltransferase (EC 2.1.1.211),2.1.1.211
+C4R3W1,C4R3W1_KOMPG,PAS_chr3_0216,argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase),6.3.4.5
+C4R3W3,C4R3W3_KOMPG,PAS_chr3_0218,Diacylglycerol O-acyltransferase (EC 2.3.1.20),2.3.1.20
+C4R3W4,C4R3W4_KOMPG,PAS_chr3_0219,DNA 3'-5' helicase (EC 5.6.2.4),5.6.2.4
+C4R3W7,C4R3W7_KOMPG,PAS_chr3_0222,Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase (EC 4.2.1.134),4.2.1.134
+C4R3X2,C4R3X2_KOMPG,PAS_chr3_0225,Fumarate reductase (EC 1.3.1.6),1.3.1.6
+C4R404,C4R404_KOMPG,PAS_chr3_0253,Acetyl-CoA hydrolase (EC 3.1.2.1) (Acetyl-CoA deacylase),3.1.2.1
+C4R413,C4R413_KOMPG,PAS_chr3_0262,dTMP kinase (EC 2.7.4.9),2.7.4.9
+C4R437,C4R437_KOMPG,PAS_chr3_0283,amidase (EC 3.5.1.4),3.5.1.4
+C4R439,C4R439_KOMPG,PAS_chr3_0285,glutamine--tRNA ligase (EC 6.1.1.18) (Glutaminyl-tRNA synthetase),6.1.1.18
+C4R460,C4R460_KOMPG,PAS_chr3_0306,"1,3-beta-glucanosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4R470,C4R470_KOMPG,PAS_chr3_0317,Squalene synthase (SQS) (SS) (EC 2.5.1.21),2.5.1.21
+C4R481,C4R481_KOMPG,PAS_chr3_0329,ATP-dependent DNA helicase II subunit 1 (EC 3.6.4.12) (ATP-dependent DNA helicase II subunit Ku70),3.6.4.12
+C4R495,C4R495_KOMPG,PAS_chr3_0342,Vesicular-fusion protein SEC18 (EC 3.6.4.6),3.6.4.6
+C4R4A0,C4R4A0_KOMPG,PAS_chr3_0345,histone acetyltransferase (EC 2.3.1.48),2.3.1.48
+C4R4A2,C4R4A2_KOMPG,PAS_chr3_0347,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R4B6,C4R4B6_KOMPG,PAS_chr3_0360,Protein-serine/threonine kinase (EC 2.7.11.-),2.7.11.-
+C4R4C7,C4R4C7_KOMPG,PAS_chr3_0369,GPI-anchored wall transfer protein (EC 2.3.-.-),2.3.-.-
+C4R4C9,C4R4C9_KOMPG,PAS_chr3_0371,Sterol 24-C-methyltransferase (EC 2.1.1.41) (Delta(24)-sterol C-methyltransferase),2.1.1.41
+C4R4D4,C4R4D4_KOMPG,PAS_chr3_0376,glycine--tRNA ligase (EC 6.1.1.14) (Diadenosine tetraphosphate synthetase),6.1.1.14
+C4R4E0,C4R4E0_KOMPG,PAS_chr3_0381,Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23),4.1.1.23
+C4R4E5,C4R4E5_KOMPG,PAS_chr3_0386,GPI mannosyltransferase 1 (EC 2.4.1.-) (GPI mannosyltransferase I),2.4.1.-
+C4R4E8,C4R4E8_KOMPG,PAS_chr3_0388,Methionine aminopeptidase (EC 3.4.11.18),3.4.11.18
+C4R4G6,C4R4G6_KOMPG,PAS_chr3_0403,Acetyl-coenzyme A synthetase (EC 6.2.1.1),6.2.1.1
+C4R4H1,C4R4H1_KOMPG,PAS_chr3_0408,Alternative oxidase (EC 1.-.-.-),1.-.-.-
+C4R4H3,C4R4H3_KOMPG,PAS_chr3_0410,Ornithine aminotransferase (EC 2.6.1.13),2.6.1.13
+C4R4H7,C4R4H7_KOMPG,PAS_chr3_0414,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R4J6,C4R4J6_KOMPG,PAS_chr3_0432,5'-3' exoribonuclease 1 (EC 3.1.13.-),3.1.13.-
+C4R4K4,C4R4K4_KOMPG,PAS_chr3_0443,tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61 (EC 2.1.1.220),2.1.1.220
+C4R4L7,C4R4L7_KOMPG,PAS_chr3_0456,Glucose-6-phosphate isomerase (EC 5.3.1.9),5.3.1.9
+C4R4M0,C4R4M0_KOMPG,PAS_chr3_1192,Phosphotransferase (EC 2.7.1.-),2.7.1.-
+C4R4N1,C4R4N1_KOMPG,PAS_chr3_0468,Mitochondrial inner membrane protease ATP23 (EC 3.4.24.-),3.4.24.-
+C4R4P4,C4R4P4_KOMPG,PAS_chr3_0482,alanine transaminase (EC 2.6.1.2),2.6.1.2
+C4R4U8,C4R4U8_KOMPG,PAS_chr3_1197,orotate phosphoribosyltransferase (EC 2.4.2.10),2.4.2.10
+C4R4W5,C4R4W5_KOMPG,PAS_chr3_0552,dolichyl-phosphate beta-glucosyltransferase (EC 2.4.1.117),2.4.1.117
+C4R4X8,C4R4X8_KOMPG,PAS_chr3_0566,phosphoserine transaminase (EC 2.6.1.52),2.6.1.52
+C4R4X9,C4R4X9_KOMPG,PAS_chr3_0567,Peptidyl-prolyl cis-trans isomerase (Cyclophilin),
+C4R4Y0,C4R4Y0_KOMPG,PAS_chr3_0568,DNA-directed RNA polymerase subunit (EC 2.7.7.6),2.7.7.6
+C4R4Z1,C4R4Z1_KOMPG,PAS_chr3_0579,Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3),1.1.5.3
+C4R503,C4R503_KOMPG,PAS_chr3_0591,asparaginase (EC 3.5.1.1),3.5.1.1
+C4R513,C4R513_KOMPG,PAS_chr3_0602,Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase),2.3.1.199
+C4R519,C4R519_KOMPG,PAS_chr3_0608,Serine/threonine-protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R520,C4R520_KOMPG,PAS_chr3_0609,mRNA-capping enzyme subunit beta (EC 3.6.1.74) (mRNA 5'-phosphatase) (mRNA 5'-triphosphate monophosphatase),3.6.1.74
+C4R532,C4R532_KOMPG,PAS_chr3_0622,tRNA ligase (EC 6.5.1.3),6.5.1.3
+C4R542,C4R542_KOMPG,PAS_chr3_0630,Inositol-pentakisphosphate 2-kinase (EC 2.7.1.158),2.7.1.158
+C4R546,C4R546_KOMPG,PAS_chr3_0633,Carboxypeptidase (EC 3.4.16.-),3.4.16.-
+C4R549,C4R549_KOMPG,PAS_chr3_0636,Protein farnesyltransferase subunit beta (FTase-beta) (EC 2.5.1.58),2.5.1.58
+C4R559,C4R559_KOMPG,PAS_chr3_0647,fumarate hydratase (EC 4.2.1.2),4.2.1.2
+C4R568,C4R568_KOMPG,PAS_chr3_0657,"ATP-dependent RNA helicase of the SFI superfamily, required for nonsense mediated mRNA decay and for",
+C4R570,C4R570_KOMPG,PAS_chr3_0659,"Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)",4.2.1.-
+C4R578,C4R578_KOMPG,PAS_chr3_0667,Adenylyl-sulfate kinase (EC 2.7.1.25),2.7.1.25
+C4R599,C4R599_KOMPG,PAS_chr3_0686,cyclic pyranopterin monophosphate synthase (EC 4.6.1.17),4.6.1.17
+C4R5A0,C4R5A0_KOMPG,PAS_chr3_0687,"GTP 3',8-cyclase (EC 4.1.99.22)",4.1.99.22
+C4R5A6,C4R5A6_KOMPG,PAS_chr3_0693,Phosphoglycerate mutase (EC 5.4.2.11),5.4.2.11
+C4R5B1,C4R5B1_KOMPG,PAS_chr3_0698,Mitochondrial Rho GTPase (EC 3.6.5.-),3.6.5.-
+C4R5B8,C4R5B8_KOMPG,PAS_chr3_0703,DNA-directed DNA polymerase (EC 2.7.7.7) (Mitochondrial DNA polymerase catalytic subunit),2.7.7.7
+C4R5E5,C4R5E5_KOMPG,PAS_chr3_0732,DNA ligase (EC 6.5.1.1),6.5.1.1
+C4R5G2,C4R5G2_KOMPG,PAS_chr3_0748,proteasome endopeptidase complex (EC 3.4.25.1),3.4.25.1
+C4R5G8,C4R5G8_KOMPG,PAS_chr3_0754,valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase),6.1.1.9
+C4R5H8,C4R5H8_KOMPG,PAS_chr3_0764,Geranylgeranyl transferase type-2 subunit beta (EC 2.5.1.60),2.5.1.60
+C4R5I6,C4R5I6_KOMPG,PAS_chr3_0770,Bifunctional enzyme of the 'de novo' purine nucleotide biosynthetic pathway,
+C4R5J9,C4R5J9_KOMPG,PAS_chr3_0781,Glycogen [starch] synthase (EC 2.4.1.11),2.4.1.11
+C4R5K2,C4R5K2_KOMPG,PAS_chr3_0783,hydroxyacylglutathione hydrolase (EC 3.1.2.6) (Glyoxalase II),3.1.2.6
+C4R5K6,C4R5K6_KOMPG,PAS_chr3_0788,Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19),4.2.1.19
+C4R5L5,C4R5L5_KOMPG,PAS_chr3_0797,DNA polymerase (EC 2.7.7.7),2.7.7.7
+C4R5P4,C4R5P4_KOMPG,PAS_chr3_0826,Phosphoglycerate mutase (EC 5.4.2.11),5.4.2.11
+C4R5Q6,C4R5Q6_KOMPG,PAS_chr3_0841,"Dihydroxyacetone kinase, required for detoxification of dihydroxyacetone (DHA)",
+C4R5Q8,C4R5Q8_KOMPG,PAS_chr3_0843,Bifunctional enzyme,
+C4R5R1,C4R5R1_KOMPG,PAS_chr3_0846,5'-3' exoribonuclease (EC 3.1.13.-),3.1.13.-
+C4R5R2,C4R5R2_KOMPG,PAS_chr3_0847,Protein arginine methyltransferase NDUFAF7 (EC 2.1.1.320),2.1.1.320
+C4R5R8,C4R5R8_KOMPG,PAS_chr3_0853,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4R5S2,C4R5S2_KOMPG,PAS_chr3_0856,E1 ubiquitin-activating enzyme (EC 6.2.1.45),6.2.1.45
+C4R5T5,C4R5T5_KOMPG,PAS_chr3_0867,S-formylglutathione hydrolase (EC 3.1.2.12),3.1.2.12
+C4R5T8,C4R5T8_KOMPG,PAS_chr3_0868,fructose-bisphosphatase (EC 3.1.3.11),3.1.3.11
+C4R5U0,C4R5U0_KOMPG,PAS_chr3_0870,mannose-1-phosphate guanylyltransferase (EC 2.7.7.13),2.7.7.13
+C4R5U7,C4R5U7_KOMPG,PAS_chr3_0876,S-adenosylmethionine synthase (EC 2.5.1.6),2.5.1.6
+C4R5V3,C4R5V3_KOMPG,PAS_chr3_0882,Mannosyltransferase (EC 2.4.1.-),2.4.1.-
+C4R5W1,C4R5W1_KOMPG,PAS_chr3_0890,Adenosylhomocysteinase (EC 3.13.2.1),3.13.2.1
+C4R5W2,C4R5W2_KOMPG,PAS_chr3_0891,"alpha-1,2-Mannosidase (EC 3.2.1.-)",3.2.1.-
+C4R5X1,C4R5X1_KOMPG,PAS_chr3_0899,homoserine kinase (EC 2.7.1.39),2.7.1.39
+C4R5Y8,C4R5Y8_KOMPG,PAS_chr3_0915,Nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19) (Quinolinate phosphoribosyltransferase [decarboxylating]),2.4.2.19
+C4R600,C4R600_KOMPG,PAS_chr3_0927,Ribonuclease P/MRP protein subunit POP5 (EC 3.1.26.5),3.1.26.5
+C4R608,C4R608_KOMPG,PAS_chr3_0933,Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12),3.4.19.12
+C4R609,C4R609_KOMPG,PAS_chr3_0934,Rhomboid-like protein (EC 3.4.21.-),3.4.21.-
+C4R611,C4R611_KOMPG,PAS_chr3_0936,Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54),2.5.1.54
+C4R617,C4R617_KOMPG,PAS_chr3_0943,coproporphyrinogen oxidase (EC 1.3.3.3),1.3.3.3
+C4R624,C4R624_KOMPG,PAS_chr3_0949,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase),6.1.1.6
+C4R626,C4R626_KOMPG,PAS_chr3_0951,Triosephosphate isomerase (EC 5.3.1.1),5.3.1.1
+C4R629,C4R629_KOMPG,PAS_chr3_0954,Uroporphyrinogen decarboxylase (EC 4.1.1.37),4.1.1.37
+C4R637,C4R637_KOMPG,PAS_chr3_0962,Multifunctional tryptophan biosynthesis protein (EC 4.1.1.48) (EC 4.1.3.27),4.1.1.48; 4.1.3.27
+C4R641,C4R641_KOMPG,PAS_chr3_0965,Glutamate decarboxylase (EC 4.1.1.15),4.1.1.15
+C4R647,C4R647_KOMPG,PAS_chr3_0969,ribonuclease Z (EC 3.1.26.11),3.1.26.11
+C4R653,C4R653_KOMPG,PAS_chr3_0975,"2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing] (EC 1.3.1.124)",1.3.1.124
+C4R657,C4R657_KOMPG,PAS_chr3_0979,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92),3.4.21.92
+C4R658,C4R658_KOMPG,PAS_chr3_0980,Protein kinase domain-containing protein,
+C4R672,C4R672_KOMPG,PAS_chr3_0996,thymidylate synthase (EC 2.1.1.45),2.1.1.45
+C4R675,C4R675_KOMPG,PAS_chr3_0999,"Alpha-1,3-glucosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4R678,C4R678_KOMPG,EFM7 PAS_chr3_1002,Protein N-terminal and lysine N-methyltransferase EFM7 (EC 2.1.1.-) (Elongation factor methyltransferase 7),2.1.1.-
+C4R681,C4R681_KOMPG,PAS_chr3_1006,GPN-loop GTPase (EC 3.6.5.-),3.6.5.-
+C4R687,C4R687_KOMPG,PAS_chr3_1012,3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11),2.1.2.11
+C4R6A2,C4R6A2_KOMPG,PAS_chr3_1025,Glycylpeptide N-tetradecanoyltransferase (EC 2.3.1.97),2.3.1.97
+C4R6A5,C4R6A5_KOMPG,PAS_chr3_1028,S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284),1.1.1.284
+C4R6B4,C4R6B4_KOMPG,PAS_chr3_1037,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (EC 2.5.1.78)",2.5.1.78
+C4R6F3,C4R6F3_KOMPG,PAS_chr3_1250,Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase),2.3.1.199
+C4R6I5,C4R6I5_KOMPG,UNG1 PAS_chr3_1105,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27),3.2.2.27
+C4R6J1,C4R6J1_KOMPG,PAS_chr3_1110,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase),6.1.1.1
+C4R6J9,C4R6J9_KOMPG,PAS_chr3_1118,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R6L7,C4R6L7_KOMPG,PAS_chr4_0013,beta-glucosidase (EC 3.2.1.21),3.2.1.21
+C4R6M4,C4R6M4_KOMPG,PAS_chr4_0022,ubiquitinyl hydrolase 1 (EC 3.4.19.12),3.4.19.12
+C4R6M8,C4R6M8_KOMPG,PAS_chr4_0027,U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase (EC 2.1.1.-),2.1.1.-
+C4R6N1,C4R6N1_KOMPG,PAS_chr4_0030,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R6P0,C4R6P0_KOMPG,PAS_chr4_0039,Lysophospholipase (EC 3.1.1.5),3.1.1.5
+C4R6P7,C4R6P7_KOMPG,PAS_chr4_0044,rhamnogalacturonan endolyase (EC 4.2.2.23),4.2.2.23
+C4R6Q1,C4R6Q1_KOMPG,PAS_chr4_0048,"glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)",3.2.1.39
+C4R6Q3,C4R6Q3_KOMPG,PAS_chr4_0050,Chorismate mutase (EC 5.4.99.5),5.4.99.5
+C4R6Q7,C4R6Q7_KOMPG,PAS_chr4_0055,Protoporphyrinogen oxidase (EC 1.3.3.4),1.3.3.4
+C4R6R0,C4R6R0_KOMPG,PAS_chr4_0060,Glucosamine 6-phosphate N-acetyltransferase (EC 2.3.1.4),2.3.1.4
+C4R6S2,C4R6S2_KOMPG,PAS_chr4_0072,2-(3-amino-3-carboxypropyl)histidine synthase subunit 1 (EC 2.5.1.108),2.5.1.108
+C4R6T6,C4R6T6_KOMPG,PAS_chr4_0085,Serine/threonine-protein phosphatase 2A activator (EC 5.2.1.8) (Phosphotyrosyl phosphatase activator),5.2.1.8
+C4R6U9,C4R6U9_KOMPG,PAS_chr4_0098,Elongator complex protein 3 (EC 2.3.1.-),2.3.1.-
+C4R6W3,C4R6W3_KOMPG,PAS_chr4_0113,Aminopeptidase (EC 3.4.11.-),3.4.11.-
+C4R6Y9,C4R6Y9_KOMPG,PAS_chr4_0138,carbamoyl-phosphate synthase (glutamine-hydrolyzing) (EC 6.3.5.5),6.3.5.5
+C4R6Z9,C4R6Z9_KOMPG,PAS_chr4_0149,NADH-cytochrome b5 reductase (EC 1.6.2.2),1.6.2.2
+C4R700,C4R700_KOMPG,PAS_chr4_0150,Aspartokinase (EC 2.7.2.4),2.7.2.4
+C4R703,C4R703_KOMPG,PAS_chr4_0153,Lysophospholipase (EC 3.1.1.5),3.1.1.5
+C4R722,C4R722_KOMPG,PAS_chr4_0172,E3 ubiquitin protein ligase (EC 2.3.2.27),2.3.2.27
+C4R730,C4R730_KOMPG,PAS_chr4_0179,tRNA-dihydrouridine synthase (EC 1.3.1.-),1.3.1.-
+C4R741,C4R741_KOMPG,PAS_chr4_0191,Malate synthase (EC 2.3.3.9),2.3.3.9
+C4R745,C4R745_KOMPG,PAS_chr4_0195,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R749,C4R749_KOMPG,PAS_chr4_0198,C-8 sterol isomerase (EC 5.-.-.-) (Delta-8--delta-7 sterol isomerase),5.-.-.-
+C4R763,C4R763_KOMPG,PAS_chr4_0212,Ribose-5-phosphate isomerase (EC 5.3.1.6) (D-ribose-5-phosphate ketol-isomerase) (Phosphoriboisomerase),5.3.1.6
+C4R764,C4R764_KOMPG,PAS_chr4_0213,Ribose-5-phosphate isomerase (EC 5.3.1.6) (D-ribose-5-phosphate ketol-isomerase) (Phosphoriboisomerase),5.3.1.6
+C4R784,C4R784_KOMPG,PAS_chr4_0229,polynucleotide adenylyltransferase (EC 2.7.7.19),2.7.7.19
+C4R787,C4R787_KOMPG,PAS_chr4_0231,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R788,C4R788_KOMPG,PAS_chr4_0232,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-
+C4R789,C4R789_KOMPG,PAS_chr4_0233,Glutamine-dependent NAD(+) synthetase (EC 6.3.5.1) (NAD(+) synthase [glutamine-hydrolyzing]),6.3.5.1
+C4R7A3,C4R7A3_KOMPG,PAS_chr4_0247,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),6.3.3.2
+C4R7A6,C4R7A6_KOMPG,PAS_chr4_0250,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R7B6,C4R7B6_KOMPG,PAS_chr4_0259,Acyl-CoA desaturase (EC 1.14.19.1),1.14.19.1
+C4R7B9,C4R7B9_KOMPG,PAS_chr4_0260,Protein kinase domain-containing protein,
+C4R7C3,C4R7C3_KOMPG,PAS_chr4_0264,Dolichyldiphosphatase (EC 3.6.1.43),3.6.1.43
+C4R7D5,C4R7D5_KOMPG,PAS_chr4_0276,phenylalanine--tRNA ligase (EC 6.1.1.20),6.1.1.20
+C4R7E7,C4R7E7_KOMPG,PAS_chr4_0285,phosphoserine phosphatase (EC 3.1.3.3) (O-phosphoserine phosphohydrolase),3.1.3.3
+C4R7G6,C4R7G6_KOMPG,PAS_chr4_0302,DNA-directed RNA polymerase subunit (EC 2.7.7.6),2.7.7.6
+C4R7H8,C4R7H8_KOMPG,PAS_chr4_0312,2'-phosphotransferase (EC 2.7.1.160),2.7.1.160
+C4R7H9,C4R7H9_KOMPG,PAS_chr4_0313,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R7J1,C4R7J1_KOMPG,PAS_chr4_0323,DNA primase (EC 2.7.7.-),2.7.7.-
+C4R7L0,C4R7L0_KOMPG,PAS_chr4_0342,"alpha,alpha-trehalase (EC 3.2.1.28)",3.2.1.28
+C4R7L1,C4R7L1_KOMPG,PAS_chr4_0343,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (5-proFAR isomerase) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase),5.3.1.16
+C4R7R8,C4R7R8_KOMPG,PAS_chr4_0393,leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase),6.1.1.4
+C4R7S3,C4R7S3_KOMPG,PAS_chr4_0398,Pyrroline-5-carboxylate reductase (EC 1.5.1.2),1.5.1.2
+C4R7S8,C4R7S8_KOMPG,PAS_chr4_0404,non-specific serine/threonine protein kinase (EC 2.7.11.1),2.7.11.1
+C4R7T2,C4R7T2_KOMPG,PAS_chr4_0408,ethanolamine-phosphate cytidylyltransferase (EC 2.7.7.14) (CTP:phosphoethanolamine cytidylyltransferase),2.7.7.14
+C4R7T9,C4R7T9_KOMPG,PAS_chr4_0415,Serine hydroxymethyltransferase (EC 2.1.2.1),2.1.2.1
+C4R7U0,C4R7U0_KOMPG,PAS_chr4_0416,alanine--glyoxylate transaminase (EC 2.6.1.44),2.6.1.44
+C4R7U2,C4R7U2_KOMPG,PAS_chr4_0418,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),4.2.1.24
+C4R7V5,C4R7V5_KOMPG,PAS_chr4_0429,E2 ubiquitin-conjugating enzyme (EC 2.3.2.23),2.3.2.23
+C4R7W4,C4R7W4_KOMPG,PAS_chr4_0961,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R7Y1,C4R7Y1_KOMPG,PAS_chr4_0453,RNA polymerase II subunit B1 CTD phosphatase RPAP2 homolog (EC 3.1.3.16),3.1.3.16
+C4R7Y8,C4R7Y8_KOMPG,PAS_chr4_0460,tRNA N(3)-methylcytidine methyltransferase (EC 2.1.1.-),2.1.1.-
+C4R802,C4R802_KOMPG,PAS_chr4_0966,ATP-dependent RNA helicase (EC 3.6.4.13),3.6.4.13
+C4R806,C4R806_KOMPG,PAS_chr4_0475,RuvB-like helicase (EC 3.6.4.12),3.6.4.12
+C4R807,C4R807_KOMPG,PAS_chr4_0968,2-dehydropantoate 2-reductase (EC 1.1.1.169) (Ketopantoate reductase),1.1.1.169
+C4R810,C4R810_KOMPG,PAS_chr4_0478,Phosphatidylinositol 3-kinase VPS34 (EC 2.7.1.137),2.7.1.137
+C4R841,C4R841_KOMPG,PAS_chr4_0511,3-oxoacyl-[acyl-carrier-protein] synthase,
+C4R851,C4R851_KOMPG,PAS_chr4_0521,E3 ubiquitin-protein ligase (EC 2.3.2.27),2.3.2.27
+C4R852,C4R852_KOMPG,PAS_chr4_0522,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase),6.1.1.1
+C4R864,C4R864_KOMPG,PAS_chr4_0530,Mitogen-activated protein kinase (EC 2.7.11.24),2.7.11.24
+C4R879,C4R879_KOMPG,PAS_chr4_0544,Mannosyltransferase (EC 2.4.1.-),2.4.1.-
+C4R880,C4R880_KOMPG,PAS_chr4_0545,Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8),5.2.1.8
+C4R8B2,C4R8B2_KOMPG,PAS_chr4_0578,Carbonic anhydrase (EC 4.2.1.1) (Carbonate dehydratase),4.2.1.1
+C4R8B3,C4R8B3_KOMPG,PAS_chr4_0579,"glucan 1,4-alpha-glucosidase (EC 3.2.1.3) (1,4-alpha-D-glucan glucohydrolase) (Glucan 1,4-alpha-glucosidase)",3.2.1.3
+C4R8B4,C4R8B4_KOMPG,PAS_chr4_0580,isocitrate dehydrogenase (NAD(+)) (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH),1.1.1.41
+C4R8C2,C4R8C2_KOMPG,PAS_chr4_0587,Serine hydroxymethyltransferase (EC 2.1.2.1),2.1.2.1
+C4R8F0,C4R8F0_KOMPG,EFM4 PAS_chr4_0615,Protein-lysine N-methyltransferase EFM4 (EC 2.1.1.-) (Elongation factor methyltransferase 4),2.1.1.-
+C4R8F6,C4R8F6_KOMPG,PAS_chr4_0621,Amine oxidase (EC 1.4.3.-),1.4.3.-
+C4R8F9,C4R8F9_KOMPG,PAS_chr4_0624,Phosphotransferase (EC 2.7.1.-),2.7.1.-
+C4R8H2,C4R8H2_KOMPG,PAS_chr4_0637,RING-type E3 ubiquitin transferase (EC 2.3.2.27),2.3.2.27
+C4R8H7,C4R8H7_KOMPG,PAS_chr4_0643,Cellulase (EC 3.2.1.4),3.2.1.4
+C4R8H9,C4R8H9_KOMPG,PAS_chr4_0645,"Acetylornithine aminotransferase, mitochondrial (EC 2.6.1.11)",2.6.1.11
+C4R8J5,C4R8J5_KOMPG,PAS_chr4_0662,Phospholipid-transporting ATPase (EC 7.6.2.1),7.6.2.1
+C4R8J8,C4R8J8_KOMPG,PAS_chr4_0665,glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41),1.2.1.41
+C4R8K2,C4R8K2_KOMPG,PAS_chr4_0668,proteasome endopeptidase complex (EC 3.4.25.1),3.4.25.1
+C4R8L1,C4R8L1_KOMPG,PAS_chr4_0677,4-aminobutyrate aminotransferase (EC 2.6.1.19) (GABA aminotransferase) (Gamma-amino-N-butyrate transaminase),2.6.1.19
+C4R8L9,C4R8L9_KOMPG,PAS_chr4_0684,Arginase (EC 3.5.3.1),3.5.3.1
+C4R8N7,C4R8N7_KOMPG,PAS_chr4_0700,Phosphoinositide phospholipase C (EC 3.1.4.11),3.1.4.11
+C4R8P2,GATB_KOMPG,PET112 PAS_chr4_0705,"Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial (Glu-AdT subunit B) (EC 6.3.5.-)",6.3.5.-
+C4R8P5,C4R8P5_KOMPG,PAS_chr4_0709,isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase),6.1.1.5
+C4R8Q1,GATF_KOMPG,GTF1 PAS_chr4_0715,"Glutamyl-tRNA(Gln) amidotransferase subunit F, mitochondrial (Glu-AdT subunit F) (EC 6.3.5.-)",6.3.5.-
+C4R8R6,C4R8R6_KOMPG,BMT2 PAS_chr4_0729,25S rRNA adenine-N(1) methyltransferase (EC 2.1.1.-),2.1.1.-
+C4R8R7,C4R8R7_KOMPG,PAS_chr4_0730,Inositol-1-monophosphatase (EC 3.1.3.25),3.1.3.25
+C4R8S5,C4R8S5_KOMPG,PAS_chr4_0737,NADH-cytochrome b5 reductase (EC 1.6.2.2),1.6.2.2
+C4R8S6,C4R8S6_KOMPG,PAS_chr4_0738,ATP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.93) (ATP-dependent NAD(P)HX dehydratase),4.2.1.93
+C4R8S8,C4R8S8_KOMPG,PAS_chr4_0741,Geranylgeranyl transferase type-2 subunit alpha (EC 2.5.1.60) (Geranylgeranyl transferase type II subunit alpha),2.5.1.60
+C4R8T8,C4R8T8_KOMPG,PAS_chr4_0751,DNA helicase (EC 3.6.4.12),3.6.4.12
+C4R8U4,C4R8U4_KOMPG,PAS_chr4_0756,Protein-serine/threonine kinase (EC 2.7.11.-),2.7.11.-
+C4R8V3,C4R8V3_KOMPG,PAS_chr4_0764,Pre-mRNA-processing factor 19 (EC 2.3.2.27),2.3.2.27
+C4R8W7,C4R8W7_KOMPG,PAS_chr4_0777,Dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109),2.4.1.109
+C4R8X4,C4R8X4_KOMPG,PAS_chr4_0783,glycerol kinase (EC 2.7.1.30),2.7.1.30
+C4R8X6,C4R8X6_KOMPG,PAS_chr4_0785,Glutamine synthetase (EC 6.3.1.2),6.3.1.2
+C4R8X7,C4R8X7_KOMPG,PAS_chr4_0786,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1),1.15.1.1
+C4R8Y2,C4R8Y2_KOMPG,PAS_chr4_0994,CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase),6.3.4.2
+C4R8Y4,C4R8Y4_KOMPG,PAS_chr4_0790,alpha-mannosidase (EC 3.2.1.24),3.2.1.24
+C4R8Y9,C4R8Y9_KOMPG,PAS_chr4_0795,"Homoaconitase, mitochondrial (EC 4.2.1.36) (Homoaconitate hydratase)",4.2.1.36
+C4R8Z5,C4R8Z5_KOMPG,PAS_chr4_0996,Riboflavin kinase (EC 2.7.1.26) (Flavin mononucleotide kinase 1),2.7.1.26
+C4R911,C4R911_KOMPG,PAS_chr4_0815,Malate dehydrogenase (EC 1.1.1.37),1.1.1.37
+C4R912,C4R912_KOMPG,PAS_chr4_0816,Trehalase (EC 3.2.1.28) (Alpha-trehalose glucohydrolase),3.2.1.28
+C4R914,C4R914_KOMPG,PAS_chr4_0818,Alkyl transferase (EC 2.5.1.-),2.5.1.-
+C4R936,C4R936_KOMPG,PAS_chr4_0842,Lactoylglutathione lyase (EC 4.4.1.5) (Glyoxalase I),4.4.1.5
+C4R937,C4R937_KOMPG,PAS_chr4_0843,Peptide-methionine (R)-S-oxide reductase (EC 1.8.4.12),1.8.4.12
+C4R988,C4R988_KOMPG,PAS_chr4_0893,Protein phosphatase (EC 3.1.3.16),3.1.3.16
+C4R9B8,C4R9B8_KOMPG,PAS_FragD_0015,rRNA adenine N(6)-methyltransferase (EC 2.1.1.-),2.1.1.-
+C4R9F4,C4R9F4_KOMPG,PAS_c034_0032,"1,3-beta-glucanosyltransferase (EC 2.4.1.-)",2.4.1.-
+C4R9F9,C4R9F9_KOMPG,PAS_c034_0037,GPI mannosyltransferase 2 (EC 2.4.1.-),2.4.1.-
+C4QVX9,C4QVX9_KOMPG,PAS_chr1-1_0044,N-acetylglucosaminylphosphatidylinositol deacetylase (EC 3.5.1.89),3.5.1.89
+C4QWE3,C4QWE3_KOMPG,PAS_chr1-1_0482,ADP-ribose 1''-phosphate phosphatase (EC 3.1.3.84),3.1.3.84
+C4QWF2,C4QWF2_KOMPG,PAS_chr1-1_0207,Hexameric DNA polymerase alpha-associated DNA helicase A involved in lagging strand DNA synthesis,
+C4QWF8,C4QWF8_KOMPG,PAS_chr1-1_0212,methionyl-tRNA formyltransferase (EC 2.1.2.9),2.1.2.9
+C4QX29,C4QX29_KOMPG,PAS_chr1-1_0424,Alkyl transferase (EC 2.5.1.-),2.5.1.-
+C4QXJ9,C4QXJ9_KOMPG,PAS_chr1-4_0144,pyridoxal kinase (EC 2.7.1.35),2.7.1.35
+C4QXP9,C4QXP9_KOMPG,PAS_chr1-4_0189,triacylglycerol lipase (EC 3.1.1.3),3.1.1.3
+C4QYI8,C4QYI8_KOMPG,PAS_chr1-4_0459,malate synthase (EC 2.3.3.9),2.3.3.9
+C4QZJ7,C4QZJ7_KOMPG,PAS_chr2-1_0070,ADP-ribose 1''-phosphate phosphatase (EC 3.1.3.84),3.1.3.84
+C4QZU6,C4QZU6_KOMPG,PAS_chr2-1_0164,HECT-type E3 ubiquitin transferase (EC 2.3.2.26),2.3.2.26
+C4R063,C4R063_KOMPG,PAS_chr2-1_0273,pyridoxal kinase (EC 2.7.1.35),2.7.1.35
+C4R081,C4R081_KOMPG,PAS_chr2-1_0292,Ureidoglycolate hydrolase,
+C4R0S4,C4R0S4_KOMPG,PAS_chr2-1_0469,HECT-type E3 ubiquitin transferase (EC 2.3.2.26),2.3.2.26
+C4R1X3,C4R1X3_KOMPG,PAS_chr2-2_0497,tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61 (EC 2.1.1.220) (tRNA(m1A58)-methyltransferase subunit TRM61),2.1.1.220
+C4R2H4,C4R2H4_KOMPG,PAS_chr2-2_0219,guanylate kinase (EC 2.7.4.8),2.7.4.8
+C4R3G0,C4R3G0_KOMPG,PAS_chr3_0066,peptide-methionine (S)-S-oxide reductase (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase),1.8.4.11
+C4R490,C4R490_KOMPG,PAS_chr3_0338,Sulfhydryl oxidase (EC 1.8.3.2),1.8.3.2
+C4R4B0,C4R4B0_KOMPG,PAS_chr3_0354,Phosphatidylinositol 3-phosphate [PI(3)P] phosphatase,
+C4R4D7,C4R4D7_KOMPG,PAS_chr3_0378,Peptidyl-prolyl cis-trans isomerase (Cyclophilin),
+C4R547,C4R547_KOMPG,PAS_chr3_0634,Tryptophan synthase (EC 4.2.1.20),4.2.1.20
+C4R6Y4,C4R6Y4_KOMPG,PAS_chr4_0132,Diphthine--ammonia ligase (EC 6.3.1.14) (Diphthamide synthase) (Diphthamide synthetase),6.3.1.14
+C4R7S5,C4R7S5_KOMPG,PAS_chr4_0401,arginyltransferase (EC 2.3.2.8),2.3.2.8
+C4R7W3,C4R7W3_KOMPG,PAS_chr4_0437,prephenate dehydratase (EC 4.2.1.51),4.2.1.51
+C4R7Z7,C4R7Z7_KOMPG,PAS_chr4_0470,methylmalonate-semialdehyde dehydrogenase (CoA acylating) (EC 1.2.1.27),1.2.1.27
+C4R8P4,C4R8P4_KOMPG,PAS_chr4_0708,tRNA(Ile)-lysidine synthetase (EC 6.3.4.19),6.3.4.19
+C4R9E9,C4R9E9_KOMPG,PAS_c034_0027,triacylglycerol lipase (EC 3.1.1.3),3.1.1.3
+C4R9G5,C4R9G5_KOMPG,PAS_c157_0002,peptide-methionine (S)-S-oxide reductase (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase),1.8.4.11
