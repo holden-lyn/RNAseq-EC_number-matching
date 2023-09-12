@@ -12,7 +12,7 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
   
 ## 2. 下载EC号和基因名字/探针匹配的数据匹配的数据
 ### 2.1 下载Uniprot数据
-在Uniprot上搜索一个物种的全部酶
+在[Uniprot](https://www.uniprot.org/)上搜索一个物种的全部酶
   
 点击“Advanced”
 ![Uniprot_main](picture_RNAseq-EC_number-matching/Uniprot_main.png) 
