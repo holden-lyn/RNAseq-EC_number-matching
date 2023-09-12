@@ -15,7 +15,7 @@ Komagataella phaffii GS115的RNA-seq数据的下载地址是``https://www.ncbi.n
 在Uniprot上搜索一个物种的全部酶
   
 点击“Advanced”
-![](https://github.com/holden-lyn/RNAseq-EC_number-matching/blob/main/picture_RNAseq-EC_number-matching/Uniprot_main.png) 
+![Uniprot_main](https://github.com/holden-lyn/RNAseq-EC_number-matching/blob/main/picture_RNAseq-EC_number-matching/Uniprot_main.png) 
   
 点击左下方“Add Field”增加搜索项，亦可点击右侧“Remove”删除一项搜索项。每行都是一个搜索项，点开其中一个搜索项的下拉菜单，输入“EC”，点击出现的“Function/Enzyme classification \[EC]”，再在对应的搜索框中打入星号"*"，意为任何EC号。  
 
