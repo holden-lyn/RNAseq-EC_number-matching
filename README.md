@@ -43,7 +43,7 @@ KEGG主页靠近上方的搜索框直接搜需要的物种名，这里用了“P
 将基因组的内容复制到一个文本文档(.txt)中。保存为文件名[KEGG_KphGS115_genome.txt](RnE_scripts_and_data/KEGG_KphGS115_genome.txt)。  
 使用python脚本[write_KEGG_EC_csv.py](RnE_scripts_and_data/write_KEGG_EC_csv.py)将其中带有EC号的行中的基因名和EC号写入一个.csv文件。  
   
-使用python脚本[merge_EC_from_KEGG-Uniprot.py](RnE_scripts_and_data/merge_EC_from_KEGG-Uniprot.py)合并Uniprot中下载到的EC号和KEGG中下载到的EC号，由于两个数据库中收录的带有EC号的基因并不完全重叠，收集两个数据库的数据取并集，提高完整性。此步过后，得到  
+使用python脚本[merge_EC_from_KEGG-Uniprot.py](RnE_scripts_and_data/merge_EC_from_KEGG-Uniprot.py)合并Uniprot中下载到的EC号和KEGG中下载到的EC号，由于两个数据库中收录的带有EC号的基因并不完全重叠，收集两个数据库的数据取并集，提高完整性。此步过后，得到[EC.csv](RnE_scripts_and_data/EC.csv)。    
   
   
 ## 3. 匹配EC编号数据集和RNA-seq数据集
